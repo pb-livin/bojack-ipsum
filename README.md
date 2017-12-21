@@ -1,2 +1,5 @@
 # bojack-ipsum
-A lorem ipsum generator chock-full of Bojack Horseman quotes
+
+Hooray! A lorem ipsum generator chock-full of BoJack Horseman quotes.
+
+I mean, it's not Ibsen...
