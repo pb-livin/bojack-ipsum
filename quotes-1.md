@@ -109,5 +109,68 @@ Ugh, this guy. Hey, man, wanted to let you know, you are out of beer.
 You drank all my beer? Also, you two are dating?
 But in a sexual way? Oh, yes. Oh my God.
 Oh, this is really-- wonderful. Starting now.
-Back in the '90s I was in a very famous TV show.
-I guess I'll just try to make you understand that I'm more horse than a man. Or I'm more man than a horse.
+Back in the '90s I was in a very famous TV show.<br><br>
+
+
+# 1.2
+
+Say "when."
+Think '90s. He looks really sad. It's hilarious.
+Don't put things in my butt if you want them back.
+When you're walking alone because Jellicles are and Jellicles do, Jellicles do and Jelli--
+I was gonna say catty. Because you're a cat. Laura, I know you're listening. You got it, right? She got it.
+No! Maybe because you're skinny, and maybe 'cause you're pretty, you're used to getting away with things, but I want you to know that your actions have an effect on others, and I hate you, and you are a horrible person, and you not understanding that you're a horrible person doesn't make you less of a horrible person.
+You think I'm pretty?<br><br>
+Well that was another in a long series of regrettable life choices.
+I was tweeting about all the weird stuff you do in bed.
+That'd better not be my last Toaster Strudel.
+My memorist is showing up soon, and I don't need you Pam-ing up the place when she gets here.
+Also, please don't put in my book that I use horse tranquilizers, ha ha. I just use a small dose to help me fall asleep at night and then a much, much larger dose to get me through the day. Also, I'm drunk. Also, I'm alone, so alone, so, so alone. Please don't put that in my book, book, book, book 'em, dildo. Does it taste like magenta in here?<br><br>
+Well, anyway, this is my businessperson here to help me with some business needs. All very above board.
+Ha ha, classic BoJack. I thought I'd drop by with the old tennis ball and chain.
+That is neither funny nor a story.
+Don't tell VH1 that! Seriously, though, please don't tell VH1 that.
+You may have too forgiving a definition of the word "wordplay."
+Mi casa es su casa.
+And that is the last of the Toaster Strudels, and now my morning is ruined.<br><br>
+I really shouldn't eat chocolate 'cause it can literally kill me. Oh, I know. But I love chocolate. Story of my life!
+Yeah, okay, I don't care. I gotta say, if you put muffins down, they're not your muffins.
+Clearly, muffins aren't supposed to be in the produce section. That wasn't a sign to you that maybe someone else had dibs?
+Pseudo? Would you say that to Eric McCormack?
+I spent the last 10 months-- Hey!
+What, have they got a lot of saturated fat in them? Oh, man, they do have a lot of saturated fat.<br><br>
+Man, I really regret buying those muffins and then eating them all on the drive home.
+I never met a girl who was so curious about American bank routing numbers. What do you guys think I should get Ayako for our 12-hour anniversary? She wants a framed picture of my mother's maiden name. Okay, let's get to work.
+Normal childhood, and then just get right into the big, famous part.
+Why wouldn't I want to talk about my parents? They're so normal. That's crazy. You sound like a crazy person, not me. Stop being so crazy, crazy. Why are you calling me crazy?<br><br>
+Great question. Well, I didn't fall down on my remote, randomly changing the channel to MSNBSea while simultaneously crippling myself, thus physically forcing me to watch MSNBSea, so no.
+BoJack Horseman, from the '90s sitcom Horsin' Around, refused to respect my dibs.
+Why do they always use the sneezing picture?
+There is nothing the least bit funny about stealing a meal from Neal McBeal, the Navy SEAL. I just thought he was a regular kind of seal.
+Sorry, stopped listening. You were ramping up to a "yes," right?
+There's your goddamn news story, the mystery of my missing goddamn self-respect!
+Well, that went slightly better than the worst it could have possibly gone, so hooray?<br><br>
+Everyone is just out to get me because I'm famous and so well-adjusted.
+What is this supposed to be, a lima bean? That's some shoddy craftsmanship, son. You take a boat from here to New York, you gonna go around the horn like a gentleman or cut through the Panama Canal like some kind of Democrat?
+I asked if you were close with your father, and you sat here in silence for five minutes and then said, "Uneventful."
+This is a really good conversation, and I definitely want to keep having it, but I just keep thinking about the muffins thing, so maybe we could put a pin in this thorough deconstruction of my past, so I can put that other thing to bed before it spirals out of con--
+Most people are jerks already, and it's not like giving a jerk a gun and telling him it's okay to kill people suddenly turns that jerk into a hero. What? Oh, you took that the bad way, didn't you?<br><br>
+Jellicles would and Jellicles can--
+I don't even hate him, really, I just think that he's wrong about the muffins.
+I'm gonna have to put you on hold.
+It is now day three of the great BoJack jerk-off-- Really? That's the name we came up with for this? Who came up with that? Was it Randy? Did Randy come up with that?
+He voiced his opinion, even though it was unpopular, and that's the most cowardly thing a person can do.
+After we made love, he covered himself in sheets, like an Arab.<br><br>
+Do you have any idea how much work went into scamming you? George Bailey! Well, I'm out of ideas.
+You never know when gold's gonna strike! Yeah, gold doesn't strike. That's why you never know.
+I don't care who was right about the muffins anymore, even though I was definitely right. I just want my privacy back, so I can finish writing my tell-all memoir, so everyone will pay attention to me again.
+I just found out I got 80 bucks in the bank. I'm helping! Hooray!
+It's a pun. Look, I know tempers are high, but let's not take it out on the great title for my reality show, which we all agree is really clever. We can edit this to make me look smart, right?<br><br>
+Marker, sound, speed.
+Yes, this is all very authentic and natural.
+But don't worry, I still saved the day because I found this bag of stale hamburger buns. Yeah, they're just giving them away behind In-N-Out. Why does anybody pay for anything?
+Furthermore, I do not find it unbelievably appropriate that this conversation is taking place on reality television, a genre which thrives on chopping the complexities of our era into easily digestible chunks of empty catchphrases.
+Hey, look, Mr. Peanutbutter got a bucket stuck on his head!
+Oh my God, did we get that? Please tell me we got that.<br><br>
+You want a day-old hamburger bun? I'm alright. You know what the problem is with everybody? They all just want to hear what they already believe.
+They drank a lot. My father was a failed novelist. My mother was the heiress to the Sugarman sugar cubes fortune, and my dad resented her for it. He used to make me cry with him while listening to Cole Porter records. He made me build my own treehouse, and then he tore it down while I was at summer camp because instead of hearty, Christian nails, I used screws, which he called fancy Jew nails. Like I said, totally normal.
