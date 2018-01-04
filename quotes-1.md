@@ -124,11 +124,11 @@ You think I'm pretty?<br><br>
 Well that was another in a long series of regrettable life choices.
 I was tweeting about all the weird stuff you do in bed.
 That'd better not be my last Toaster Strudel.
-My memorist is showing up soon, and I don't need you Pam-ing up the place when she gets here.
+My memoirist is showing up soon, and I don't need you Pam-ing up the place when she gets here.
 Also, please don't put in my book that I use horse tranquilizers, ha ha. I just use a small dose to help me fall asleep at night and then a much, much larger dose to get me through the day. Also, I'm drunk. Also, I'm alone, so alone, so, so alone. Please don't put that in my book, book, book, book 'em, dildo. Does it taste like magenta in here?<br><br>
 Well, anyway, this is my businessperson here to help me with some business needs. All very above board.
 Ha ha, classic BoJack. I thought I'd drop by with the old tennis ball and chain.
-That is neither funny nor a story.
+That is neither funny, nor a story, nor a reason for you to be here.
 Don't tell VH1 that! Seriously, though, please don't tell VH1 that.
 You may have too forgiving a definition of the word "wordplay."
 Mi casa es su casa.
