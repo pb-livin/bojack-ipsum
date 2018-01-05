@@ -39,7 +39,7 @@ $getIpsum.click(() => {
       ipsumArray = ipsumArray.concat(quotesObject[array]);
     }
 
-    // call randomP() with user input and ipsum array length, store in indexes
+    // call randomNumberArray() with user input and ipsum array length, store in indexes
     const indexes = randomNumberArray($numberOfParagraphs, ipsumArray.length);
 
     // loop over indexes and add paragraphs from ipsumArray at each index listed in indexes
