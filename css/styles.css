@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+}
+
+.wrapper {
+  min-height: calc(100% - 4rem);
+}
+
+.footer {
+  height: 4rem;
+  line-height: 4rem;
+}
+
+#heading {
+  line-height: 1;
+}
+
+h4 {
+  color: #777;
+  font-weight: normal;
+  text-transform: lowercase;
+}
