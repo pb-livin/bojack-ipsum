@@ -14,7 +14,7 @@ $getIpsum.on('click', () => {
   $userInput.fadeOut(300);
   $tagline.fadeOut(300);
   // jQuery AJAX method
-  $.getJSON('bojack-ipsum/data/quotes.json', (response) => {
+  $.getJSON('/data/quotes.json', (response) => {
     // concatenate all arrays in json response
     let ipsumArray = [];
     for (array in response) {
