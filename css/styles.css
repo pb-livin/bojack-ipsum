@@ -22,6 +22,12 @@ h4 {
   text-transform: lowercase;
 }
 
-code {
-  color: #333;
+#toggleButtons {
+  display: none;
+}
+
+@media (min-width: 1000px) {
+  #toggleButtons {
+    display: inline-flex;
+  }
 }
