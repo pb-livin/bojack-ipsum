@@ -24,9 +24,6 @@ function randomNumberArray(x, range) {
   return randomArray;
 } // end randomNumberArray()
 
-$results.hide();
-$htmlFormatted.hide();
-
 $getIpsum.click(() => {
   // hide user input div
   $userInput.fadeOut(300);
