@@ -21,3 +21,7 @@ h4 {
   font-weight: normal;
   text-transform: lowercase;
 }
+
+code {
+  color: #333;
+}

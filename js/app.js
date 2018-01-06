@@ -3,7 +3,10 @@ const $userInput = $('#userInput');
 const $paragraphs = $('#paragraphs');
 const $getIpsum = $('#getIpsum');
 const $results = $('#results');
+const $plainText = $('#plainText');
+const $htmlFormattedButton = $('#htmlFormattedButton');
 const $ipsum = $('#ipsum');
+const $htmlFormatted = $('#htmlFormatted');
 const $reload = $('#reload');
 
 // return an array of x unique random numbers in a given range
@@ -22,6 +25,7 @@ function randomNumberArray(x, range) {
 } // end randomNumberArray()
 
 $results.hide();
+$htmlFormatted.hide();
 
 $getIpsum.click(() => {
   // hide user input div
@@ -46,6 +50,11 @@ $getIpsum.click(() => {
     $.each(indexes, (i, indexValue) => {
       const $p = $('<p>').text(ipsumArray[indexValue]);
       $ipsum.append($p);
+      // get raw html
+      const $htmlP = $('<p>');
+      $htmlP.text(`<p>${ipsumArray[indexValue]}</p>`);
+      $htmlP.css({fontFamily: 'monospace'});
+      $htmlFormatted.append($htmlP);
     });
 
     // display ipsum results
@@ -60,6 +69,21 @@ $getIpsum.click(() => {
     $results.fadeIn(500); // right now, getting 'Error 0: error' when it should be 'Error 404: Not Found'
   }); // end getJSON/fail
 }); // end click listener
+
+// toggle between plain text and formatted html
+$htmlFormattedButton.click(() => {
+  $ipsum.hide();
+  $plainText.removeClass('active');
+  $htmlFormattedButton.addClass('active');
+  $htmlFormatted.show();
+});
+
+$plainText.click(() => {
+  $htmlFormatted.hide();
+  $htmlFormattedButton.removeClass('active');
+  $plainText.addClass('active');
+  $ipsum.show();
+});
 
 // reloads the page to get new ipsum
 $reload.click(() => {
