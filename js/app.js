@@ -5,6 +5,7 @@ const $getIpsum = $('#getIpsum');
 const $results = $('#results');
 const $plainText = $('#plainText');
 const $htmlFormattedButton = $('#htmlFormattedButton');
+const $copyButton = $('#copyButton');
 const $ipsum = $('#ipsum');
 const $htmlFormatted = $('#htmlFormatted');
 const $reload = $('#reload');
@@ -71,6 +72,7 @@ $htmlFormattedButton.click(() => {
   $plainText.removeClass('active');
   $htmlFormattedButton.addClass('active');
   $htmlFormatted.show();
+  $copyButton.text('Copy');
 });
 
 $plainText.click(() => {
@@ -78,7 +80,26 @@ $plainText.click(() => {
   $htmlFormattedButton.removeClass('active');
   $plainText.addClass('active');
   $ipsum.show();
+  $copyButton.text('Copy');
 });
+
+// copy displayed text to clipboard per https://stackoverflow.com/questions/22581345/click-button-copy-to-clipboard-using-jquery
+// need to figure out how to account for line breaks/carriage returns: loop over each paragraph?
+$copyButton.click(() => {
+  let $selectedText;
+  if ($htmlFormattedButton.hasClass('active')) {
+    $selectedText = $ipsum.html();
+  } else {
+    $selectedText = $ipsum.text();
+  }
+  // console.log($selectedText);
+  const $temp = $('<textarea>');
+  $('body').append($temp);
+  $temp.val($selectedText).select();
+  document.execCommand('copy');
+  $temp.remove();
+  $copyButton.text('Copied!');
+}); // try/catch: https://jsfiddle.net/tvkrdjs8/1/
 
 // resets the page to get new ipsum
 $reload.click(() => {
