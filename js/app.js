@@ -84,15 +84,20 @@ $plainText.click(() => {
 });
 
 // copy displayed text to clipboard per https://stackoverflow.com/questions/22581345/click-button-copy-to-clipboard-using-jquery
-// need to figure out how to account for line breaks/carriage returns: loop over each paragraph?
 $copyButton.click(() => {
-  let $selectedText;
+  // get text and add newlines between paragraphs
+  let $paragraphs;
+  let $selectedText = '';
   if ($htmlFormattedButton.hasClass('active')) {
-    $selectedText = $ipsum.html();
+    $paragraphs = $('#htmlFormatted p');
   } else {
-    $selectedText = $ipsum.text();
+    $paragraphs = $('#ipsum p');
   }
-  // console.log($selectedText);
+  $.each($paragraphs, (index, paragraph) => {
+    $selectedText += paragraph.textContent;
+    $selectedText += '\n\n';
+  });
+  // create a temporary textarea, select and copy text, remove
   const $temp = $('<textarea>');
   $('body').append($temp);
   $temp.val($selectedText).select();
@@ -110,4 +115,5 @@ $reload.click(() => {
   $htmlFormatted.text('').hide();
   $plainText.addClass('active');
   $htmlFormattedButton.removeClass('active');
+  $copyButton.text('Copy');
 });
