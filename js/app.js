@@ -80,7 +80,11 @@ $plainText.click(() => {
   $ipsum.show();
 });
 
-// reloads the page to get new ipsum
+// resets the page to get new ipsum
 $reload.click(() => {
-  location.reload();
+  $results.hide();
+  $tagline.delay(100).fadeIn(500);
+  $userInput.delay(100).fadeIn(500);
+  $ipsum.text('').show();
+  $htmlFormatted.text('').hide();
 });
