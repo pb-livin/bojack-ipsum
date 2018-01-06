@@ -87,4 +87,6 @@ $reload.click(() => {
   $userInput.delay(100).fadeIn(500);
   $ipsum.text('').show();
   $htmlFormatted.text('').hide();
+  $plainText.addClass('active');
+  $htmlFormattedButton.removeClass('active');
 });
