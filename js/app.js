@@ -47,10 +47,8 @@ $getIpsum.click(() => {
     $.each(indexes, (i, indexValue) => {
       const $p = $('<p>').text(ipsumArray[indexValue]);
       $ipsum.append($p);
-      // get raw html
-      const $htmlP = $('<p>');
-      $htmlP.text(`<p>${ipsumArray[indexValue]}</p>`);
-      $htmlP.css({fontFamily: 'monospace'});
+      // raw html display
+      const $htmlP = $('<p>').text(`<p>${ipsumArray[indexValue]}</p>`).css({fontFamily: 'monospace'});
       $htmlFormatted.append($htmlP);
     });
 
