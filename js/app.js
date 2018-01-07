@@ -49,7 +49,15 @@ $getIpsum.click(() => {
       const $p = $('<p>').text(ipsumArray[indexValue]);
       $ipsum.append($p);
       // raw html display
-      const $htmlP = $('<p>').text(`<p>${ipsumArray[indexValue]}</p>`).css({fontFamily: 'monospace'});
+      const $htmlP = $('<p>');
+      const openingPTag = $('<span>').text(`<p>`).css({color: '#E9249E'});
+      const pText = $('<span>').text(ipsumArray[indexValue]);
+      const closingPTag = $('<span>').text(`</p>`).css({color: '#E9249E'});
+      $htmlP.append(openingPTag);
+      $htmlP.append(pText);
+      $htmlP.append(closingPTag);
+      $htmlP.css({fontFamily: 'Roboto Mono'});
+      // const $htmlP = $('<p>').text(`<p>${ipsumArray[indexValue]}</p>`).css({fontFamily: 'Roboto Mono'});
       $htmlFormatted.append($htmlP);
     });
 
