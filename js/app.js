@@ -78,7 +78,7 @@ $getIpsum.click(() => {
     // });
     // $iceRight.delay(900).animate({borderSpacing: 5}, {step: function(now, fx) {$(this).css('transform', 'rotate('+now+'deg)');}, duration: 'slow'});
     $loading.delay(4000).fadeOut(200);
-    $results.delay(4800).fadeIn(500);
+    $results.delay(5000).fadeIn(500);
   }
 
   // jQuery AJAX method
