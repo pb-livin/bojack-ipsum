@@ -36,7 +36,7 @@ h6 {
 #iceLeft,
 #iceRight {
   /* border-spacing: 0; */
-  /* transform-origin: center center; */
+  transform-origin: center center;
 }
 
 #iceLeft {
