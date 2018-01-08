@@ -22,6 +22,25 @@ h4 {
   text-transform: lowercase;
 }
 
+#rocksGlass {
+  transform-origin: center center;
+  animation: shake 1s infinite ease;
+}
+
+#iceLeft,
+#iceRight {
+  /* border-spacing: 0; */
+  transform-origin: center center;
+}
+
+#iceLeft {
+  animation: clink .8s infinite cubic-bezier(.41,.62,.4,.19);
+}
+
+#iceRight {
+  animation: clink .8s .2s infinite cubic-bezier(.41,.62,.4,.19);
+}
+
 #results {
   max-width: 900px;
 }
@@ -44,5 +63,32 @@ h4 {
 @media (min-width: 1000px) {
   #toggleButtons {
     display: inline-flex;
+  }
+}
+
+@keyframes shake {
+  0% {
+    transform: rotate(5deg);
+  }
+  50% {
+    transform: rotate(-5deg);
+  }
+  100% {
+    transform: rotate(5deg);
+  }
+}
+
+@keyframes clink {
+  0% {
+    transform: rotate(0deg);
+  }
+  20% {
+    transform: rotate(20deg) translateY(-10%);
+  }
+  60% {
+    transform: rotate(40deg) translateY(5%);
+  }
+  100% {
+    transform: rotate(0deg);
   }
 }

@@ -1,6 +1,10 @@
 const $tagline = $('#tagline');
 const $userInput = $('#userInput');
 const $paragraphs = $('#paragraphs');
+const $loading = $('#loading');
+const $rocksGlass = $('#loading svg');
+const $iceLeft = $('#iceLeft');
+const $iceRight = $('#iceRight');
 const $getIpsum = $('#getIpsum');
 const $results = $('#results');
 const $plainText = $('#plainText');
@@ -62,7 +66,19 @@ $getIpsum.click(() => {
     });
 
     // display ipsum results
-    $results.delay(400).fadeIn(500);
+    $loading.delay(400).fadeIn(200);
+    // $iceLeft.delay(800).animate({borderSpacing: -5}, {
+    //   step: function(now, fx) {
+    //     $(this).css('transform', 'rotate('+now+'deg)');
+    //   },
+    //   duration: 'slow'
+    // }, {complete: function(now, fx) {
+    //   $(this).css('transform', 'rotate('+now+'deg)');},
+    //   duration: 'slow'
+    // });
+    // $iceRight.delay(900).animate({borderSpacing: 5}, {step: function(now, fx) {$(this).css('transform', 'rotate('+now+'deg)');}, duration: 'slow'});
+    $loading.delay(4000).fadeOut(200);
+    $results.delay(4800).fadeIn(500);
   }
 
   // jQuery AJAX method
