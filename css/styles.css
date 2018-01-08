@@ -36,14 +36,16 @@ h6 {
 #iceLeft,
 #iceRight {
   /* border-spacing: 0; */
-  transform-origin: center center;
+  /* transform-origin: center center; */
 }
 
 #iceLeft {
+  transform-origin: 36px 66px;
   animation: clink .8s infinite ease-out;
 }
 
 #iceRight {
+  transform-origin: 60px 78px;
   animation: clink .8s .2s infinite ease-out;
 }
 
@@ -89,10 +91,10 @@ h6 {
     transform: rotate(0deg);
   }
   20% {
-    transform: rotate(20deg)/* translateY(-10%)*/;
+    transform: rotate(-10deg)/* translateY(-10%)*/;
   }
   60% {
-    transform: rotate(40deg)/* translateY(5%)*/;
+    transform: rotate(20deg)/* translateY(5%)*/;
   }
   100% {
     transform: rotate(0deg);
