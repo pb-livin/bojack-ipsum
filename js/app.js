@@ -50,13 +50,13 @@ $getIpsum.click(() => {
       $ipsum.append($p);
       // raw html display
       const $htmlP = $('<p>');
-      const openingPTag = $('<span>').text(`<p>`).css({color: '#D7006D'});
+      const openingPTag = $('<span>').addClass('highlight').text(`<p>`);
       const pText = $('<span>').text(ipsumArray[indexValue]);
-      const closingPTag = $('<span>').text(`</p>`).css({color: '#D7006D'});
+      const closingPTag = $('<span>').addClass('highlight').text(`</p>`);
       $htmlP.append(openingPTag);
       $htmlP.append(pText);
       $htmlP.append(closingPTag);
-      $htmlP.css({fontFamily: 'Inconsolata'});
+      // $htmlP.css({fontFamily: 'Inconsolata'});
       // const $htmlP = $('<p>').text(`<p>${ipsumArray[indexValue]}</p>`).css({fontFamily: 'Inconsolata'});
       $htmlFormatted.append($htmlP);
     });

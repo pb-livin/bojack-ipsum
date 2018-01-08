@@ -26,6 +26,17 @@ h4 {
   display: none;
 }
 
+#htmlFormatted {
+  padding: 1rem;
+  background: #333;
+  color: #eee;
+  font-family: 'Inconsolata', monospace;
+}
+
+.highlight {
+  color: #D7006D;
+}
+
 @media (min-width: 1000px) {
   #toggleButtons {
     display: inline-flex;
