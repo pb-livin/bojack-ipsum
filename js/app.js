@@ -50,9 +50,9 @@ $getIpsum.click(() => {
       $ipsum.append($p);
       // raw html display
       const $htmlP = $('<p>');
-      const openingPTag = $('<span>').text(`<p>`).css({color: '#E9249E'});
+      const openingPTag = $('<span>').text(`<p>`).css({color: '#D7006D'});
       const pText = $('<span>').text(ipsumArray[indexValue]);
-      const closingPTag = $('<span>').text(`</p>`).css({color: '#E9249E'});
+      const closingPTag = $('<span>').text(`</p>`).css({color: '#D7006D'});
       $htmlP.append(openingPTag);
       $htmlP.append(pText);
       $htmlP.append(closingPTag);
