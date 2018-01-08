@@ -56,8 +56,8 @@ $getIpsum.click(() => {
       $htmlP.append(openingPTag);
       $htmlP.append(pText);
       $htmlP.append(closingPTag);
-      $htmlP.css({fontFamily: 'Roboto Mono'});
-      // const $htmlP = $('<p>').text(`<p>${ipsumArray[indexValue]}</p>`).css({fontFamily: 'Roboto Mono'});
+      $htmlP.css({fontFamily: 'Inconsolata'});
+      // const $htmlP = $('<p>').text(`<p>${ipsumArray[indexValue]}</p>`).css({fontFamily: 'Inconsolata'});
       $htmlFormatted.append($htmlP);
     });
 
