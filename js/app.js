@@ -80,7 +80,7 @@ $htmlFormattedButton.click(() => {
   $plainText.removeClass('active');
   $htmlFormattedButton.addClass('active');
   $htmlFormatted.show();
-  $copyButton.text('Copy');
+  $copyButton.html('<i class="material-icons" style="height: 100%">content_paste</i>');
 });
 
 $plainText.click(() => {
@@ -88,7 +88,7 @@ $plainText.click(() => {
   $htmlFormattedButton.removeClass('active');
   $plainText.addClass('active');
   $ipsum.show();
-  $copyButton.text('Copy');
+  $copyButton.html('<i class="material-icons" style="height: 100%">content_paste</i>');
 });
 
 // copy displayed text to clipboard per https://stackoverflow.com/questions/22581345/click-button-copy-to-clipboard-using-jquery
@@ -123,5 +123,5 @@ $reload.click(() => {
   $htmlFormatted.text('').hide();
   $plainText.addClass('active');
   $htmlFormattedButton.removeClass('active');
-  $copyButton.text('Copy');
+  $copyButton.html('<i class="material-icons" style="height: 100%">content_paste</i>');
 });
