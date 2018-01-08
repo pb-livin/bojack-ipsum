@@ -88,15 +88,12 @@ h6 {
 
 @keyframes clink {
   0% {
-    transform: rotate(0deg);
+    transform: rotate(-10deg);
   }
-  20% {
-    transform: rotate(-10deg)/* translateY(-10%)*/;
-  }
-  60% {
-    transform: rotate(20deg)/* translateY(5%)*/;
+  50% {
+    transform: rotate(20deg);
   }
   100% {
-    transform: rotate(0deg);
+    transform: rotate(-10deg);
   }
 }
