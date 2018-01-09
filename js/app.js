@@ -9,6 +9,7 @@ const $getIpsum = $('#getIpsum');
 const $results = $('#results');
 const $plainText = $('#plainText');
 const $htmlFormattedButton = $('#htmlFormattedButton');
+const $copyButtonDiv = $('#copyButtonDiv');
 const $copyButton = $('#copyButton');
 const $ipsum = $('#ipsum');
 const $htmlFormatted = $('#htmlFormatted');
@@ -96,7 +97,7 @@ $htmlFormattedButton.click(() => {
   $plainText.removeClass('active');
   $htmlFormattedButton.addClass('active');
   $htmlFormatted.show();
-  $copyButton.html('<i class="material-icons" style="height: 100%">content_paste</i>');
+  $copyButton.text('Copy');
 });
 
 $plainText.click(() => {
@@ -104,11 +105,11 @@ $plainText.click(() => {
   $htmlFormattedButton.removeClass('active');
   $plainText.addClass('active');
   $ipsum.show();
-  $copyButton.html('<i class="material-icons" style="height: 100%">content_paste</i>');
+  $copyButton.text('Copy');
 });
 
 // copy displayed text to clipboard per https://stackoverflow.com/questions/22581345/click-button-copy-to-clipboard-using-jquery
-$copyButton.click(() => {
+$copyButtonDiv.click(() => {
   // get text and add newlines between paragraphs
   let $paragraphs;
   let $selectedText = '';
@@ -139,5 +140,5 @@ $reload.click(() => {
   $htmlFormatted.text('').hide();
   $plainText.addClass('active');
   $htmlFormattedButton.removeClass('active');
-  $copyButton.html('<i class="material-icons" style="height: 100%">content_paste</i>');
+  $copyButton.text('Copy');
 });
