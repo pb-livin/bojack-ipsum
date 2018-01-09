@@ -15,12 +15,12 @@
 <body>
 
   <div class="wrapper">
-    <header class="container text-center py-lg-5">
-      <h1 class="pt-3" id="heading">BoJack Ipsum</h1>
-      <h4 class="pt-3" id="tagline">A Lorem Ipsum Generator That Doesn't Horse Around</h4>
-    </header>
-    <div class="container">
-      <div class="text-center" id="userInput">
+    <div class="container" id="content">
+        <header class="container text-center py-lg-5">
+          <h1 class="pt-3" id="heading">BoJack Ipsum</h1>
+          <h4 class="pt-3" id="tagline">A Lorem Ipsum Generator That Doesn't Horse Around</h4>
+        </header>
+      <div class="container text-center" id="userInput">
         <label name="paragraphs" for="#paragraphs">Number of Paragraphs: </label>
         <select class="mt-5 ml-2 px-1" id="paragraphs">
           <option>1</option>
@@ -35,8 +35,8 @@
         <button class="mt-3 btn btn-lg btn-danger" id="getIpsum">Hooray!</button>
       </div>
 
-      <div id="loading" class="text-center pt-5 mt-5" style="display: none">
-        <svg xmlns="http://www.w3.org/2000/svg" id="rocksGlass" viewBox="-8.233 -8.233 122.466 122.466" width="100px">
+      <div id="loading" class="container text-center mt-5 pt-5" style="display: none">
+        <svg xmlns="http://www.w3.org/2000/svg" id="rocksGlass" viewBox="-8.233 -8.233 122.466 122.466" height="150px">
           <path d=" M 12.556 103 L 3 3 L 103 3 L 93.347 103 L 12.556 103 L 12.556 103 Z " fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="5.616" stroke="rgb(70,70,70)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4"/>
           <g opacity="0.8">
             <path d=" M 12.251 56.089 L 93.751 56.089 L 88.851 98.111 L 17.351 98.111 L 12.251 56.089 Z " fill="rgb(147,72,3)"/>
@@ -54,7 +54,7 @@
           <g opacity="0.5">
             <path d=" M 89.776 14.76 C 88.039 14.687 86.398 15.71 86.301 17.098 L 86.012 21.188 C 85.915 22.576 87.266 23.745 89.1 23.818 L 89.293 23.818 C 91.031 23.818 92.479 22.795 92.575 21.408 L 92.865 17.317 C 93.058 16.002 91.707 14.833 89.776 14.76 L 89.776 14.76 Z  M 88.714 29.077 C 86.88 29.004 85.336 30.027 85.239 31.415 L 80.703 91.24 L 23.56 91.24 C 21.726 91.24 20.181 92.335 20.181 93.796 C 20.181 95.257 21.629 96.353 23.56 96.353 L 83.888 96.353 C 85.625 96.353 87.073 95.33 87.17 93.942 L 91.9 31.707 C 91.996 30.392 90.548 29.15 88.714 29.077 L 88.714 29.077 Z " fill-rule="evenodd" fill="rgb(162,162,162)"/>
           </g>
-        </svg><br>
+        </svg>
         <h6>Say "when"...</h6>
       </div>
 
@@ -73,7 +73,7 @@
         <div id="ipsum"></div>
         <div id="htmlFormatted" style="display: none"></div>
         <div class="text-center">
-          <button class="mt-3 btn btn-lg btn-danger" id="reload">Blech, Honeydew!</button>
+          <button class="mt-3 mb-5 btn btn-lg btn-danger" id="reload">Blech, Honeydew!</button>
         </div>
       </div>
     </div>

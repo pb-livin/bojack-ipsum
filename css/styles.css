@@ -4,8 +4,13 @@ body {
 }
 
 .wrapper {
-  min-height: calc(100% - 4rem);
+  min-height: calc(99% - 4rem);
 }
+
+/* #userInput,
+#loading {
+  height: 300px;
+} */
 
 .footer {
   height: 4rem;
