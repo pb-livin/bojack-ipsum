@@ -13,6 +13,8 @@ body {
 }
 
 #heading {
+  font-size: 3rem;
+  font-weight: lighter;
   /* line-height: 1; */
 }
 
@@ -69,6 +71,10 @@ h6 {
 }
 
 @media (min-width: 1000px) {
+#heading {
+  font-size: 6rem;
+}
+
   #toggleButtons {
     display: inline-flex;
   }
