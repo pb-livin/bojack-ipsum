@@ -7,7 +7,7 @@ a:link,
 a:hover,
 a:active,
 a:visited {
-  text-decoration: none;
+  text-decoration: none!important;
 }
 
 .wrapper {
@@ -75,7 +75,7 @@ h6 {
 }
 
 #buttonDiv button {
-  height: 2rem;
+  height: 1.875rem;
 }
 
 #toggleButtons {
