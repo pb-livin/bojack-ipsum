@@ -3,6 +3,13 @@ body {
   height: 100%;
 }
 
+a:link,
+a:hover,
+a:active,
+a:visited {
+  text-decoration: none;
+}
+
 .wrapper {
   min-height: calc(99% - 4rem);
 }
@@ -35,6 +42,13 @@ h6 {
   text-transform: lowercase;
 }
 
+.btn {
+  transition: color .3s ease-in-out,
+    background-color .3s ease-in-out,
+    border .3s ease-in-out,
+    box-shadow .3s ease-in-out;
+}
+
 #rocksGlass {
   /* transform-origin: center center; */
   animation: shake 1s infinite ease;
@@ -60,9 +74,25 @@ h6 {
   max-width: 900px;
 }
 
+#buttonDiv button {
+  height: 2rem;
+}
+
 #toggleButtons {
   display: none;
 }
+
+/* #socialIcons a path,
+#socialIcons a path,
+#socialIcons a path {
+  transition: fill .3s ease;
+}
+
+#socialIcons a:hover path,
+#socialIcons a:focus path,
+#socialIcons a:active path {
+  fill: #C82333;
+} */
 
 #htmlFormatted {
   padding: 1rem;
