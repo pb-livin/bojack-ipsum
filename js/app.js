@@ -22,7 +22,7 @@ function randomNumberArray(x, range) {
   while (count < x) {
     const randomChoice = Math.floor(Math.random() * range);
     // check to see if number is already in array before adding
-    if (randomArray.indexOf(randomChoice) === -1) {
+    if (!randomArray.includes(randomChoice)) {
       randomArray.push(randomChoice);
       count += 1;
     } // end if statement
