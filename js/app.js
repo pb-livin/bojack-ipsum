@@ -1,3 +1,5 @@
+'use strict';
+
 const $tagline = $('#tagline');
 const $userInput = $('#userInput');
 const $paragraphs = $('#paragraphs');
@@ -17,11 +19,11 @@ const $reload = $('#reload');
 
 // return an array of x unique random numbers in a given range
 function randomNumberArray(x, range) {
-  randomArray = [];
+  const randomArray = [];
   let count = 0;
   while (count < x) {
     const randomChoice = Math.floor(Math.random() * range);
-    // check to see if number is already in array before adding
+    // check to see if number is in array before adding
     if (!randomArray.includes(randomChoice)) {
       randomArray.push(randomChoice);
       count += 1;
@@ -42,12 +44,36 @@ $getIpsum.click(() => {
   function makeParagraphs(quotesObject) {
     // concatenate all arrays in json quotes object
     let ipsumArray = [];
-    for (array in quotesObject) {
+    // use spread operator? to add ...array to ipsumArray?
+    for (let array in quotesObject) {
       ipsumArray = ipsumArray.concat(quotesObject[array]);
     }
 
     // call randomNumberArray() with user input and ipsum array length, store in indexes
     const indexes = randomNumberArray($numberOfParagraphs, ipsumArray.length);
+
+    // modify so that getJSON returns array of random paragraphs, then build them outside the JSON call: that way there will be a reference for creating the 4 different versions of the list of paragraphs
+    // use filter?
+    // example:
+    // const animals = [
+    //   {name: 'Fluffykins', species: 'rabbit'},
+    //   {name: 'Caro', species: 'dog'},
+    //   {name: 'Hamilton', species: 'dog'},
+    //   {name: 'Harold', species: 'fish'},
+    //   {name: 'Ursula', species: 'cat'},
+    //   {name: 'Jimmy', species: 'fish'}
+    // ];
+    
+    // const dogs = animals.filter(animal => animal.species === 'dog');
+
+    // const isDog = function(animal) {
+    //   return animal.species === 'dog';
+    // };
+    // const dogs = animals.filter(isDog);
+
+    // use map to map over array, do something, and return a new array
+    // or use reduce?
+    // forEach: similar to map, but doesn't return a new array, just runs a function for each item in array
 
     // loop over indexes and add paragraphs from ipsumArray at each index listed in indexes
     $.each(indexes, (i, indexValue) => {
@@ -65,6 +91,10 @@ $getIpsum.click(() => {
       // const $htmlP = $('<p>').text(`<p>${ipsumArray[indexValue]}</p>`).css({fontFamily: 'Inconsolata'});
       $htmlFormatted.append($htmlP);
     });
+
+    // use promises to dipslay results after 1. animation is complete, and 2. json paragraphs are ready
+
+    // move animation above ajax call
 
     // display ipsum results
     $loading.delay(400).fadeIn(200).delay(4000).fadeOut(200);
@@ -109,6 +139,7 @@ $copyButtonDiv.click(() => {
   }
   $.each($paragraphs, (index, paragraph) => {
     $selectedText += paragraph.textContent;
+    // use multiline string instead of \n?
     $selectedText += '\n\n';
   });
   // create a temporary textarea, select and copy text, remove
