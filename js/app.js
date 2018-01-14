@@ -17,25 +17,14 @@ const $ipsum = $('#ipsum');
 const $htmlFormatted = $('#htmlFormatted');
 const $reload = $('#reload');
 
-// return an array of x unique random numbers in a given range
-// use set instead to get unique values, then convert to array?
-// let set = new Set;
-// generate random number
-// set.add(random number); <-- will only be added if it's unique to the set
-// use set size as condition (should stop when = x)
-// array = Array.from(set);
+// return an array of x unique random numbers in a given range, using set
 function randomNumberArray(x, range) {
-  const randomArray = [];
-  let count = 0;
-  while (count < x) {
+  const randomSet = new Set;
+  while (randomSet.size < x) {
     const randomChoice = Math.floor(Math.random() * range);
-    // check to see if number is in array before adding
-    if (!randomArray.includes(randomChoice)) {
-      randomArray.push(randomChoice);
-      count += 1;
-    } // end if statement
+    randomSet.add(randomChoice);
   } // end while loop
-  return randomArray;
+  return Array.from(randomSet);
 } // end randomNumberArray()
 
 $getIpsum.click(() => {
