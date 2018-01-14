@@ -18,6 +18,12 @@ const $htmlFormatted = $('#htmlFormatted');
 const $reload = $('#reload');
 
 // return an array of x unique random numbers in a given range
+// use set instead to get unique values, then convert to array?
+// let set = new Set;
+// generate random number
+// set.add(random number); <-- will only be added if it's unique to the set
+// use set size as condition (should stop when = x)
+// array = Array.from(set);
 function randomNumberArray(x, range) {
   const randomArray = [];
   let count = 0;
