@@ -1,8 +1,9 @@
 'use strict';
 
 // having some problems with fs/require in the browser (node syntax): just use an ajax call...? but how? need to figure out how make this accessible to the app
-const fs = require('fs');
-// import fs from 'fs';
+// const fs = require('fs');
+// getting a better console error now, but still need to figure out how to make the browser happy: full/absolute path to fs? Can't find one...
+import fs from 'fs';
 
 const output = fs.readFileSync('data/transcript-1.txt', 'UTF-8')
   .split('\n')
