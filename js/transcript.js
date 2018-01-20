@@ -1,12 +1,5 @@
 'use strict';
 
-// breaks when fetch gets the data from the absolute url
-// so one of my maps or filters or whatever
-// is probably not compatible with the github-hosted version
-// maybe the \r's?
-// try debugging locally, but with absolute path
-// also look at transcript-1.txt on github
-
 function randomQuote(array) {
   return array[Math.floor(Math.random() * array.length)];
 }
@@ -16,7 +9,6 @@ function makeParagraph(lines, array) {
   for (let i = 0; i < lines; i++) {
     paragraphText += `${randomQuote(array)} `;
   }
-  // console.log(paragraphText);
   return paragraphText;
 }
 
@@ -70,7 +62,7 @@ $('#getIpsum').click( () => {
         .map(line => line.replace(/\n/g, ' '))
         // removes empty lines
         .filter(line => line.length > 0)
-        // removes stage directions in [ ], add ( )?
+        // removes stage directions in [ ] or ( )
         .map(line => line.replace(/[\[(].*[\])]/g, ''))
         // removes whitespace at either end of a line
         .map(line => line.trim())
@@ -95,6 +87,7 @@ $('#getIpsum').click( () => {
         }, {});
       return text;
     }).then(text => {
+      // concatenates character arrays before creating random paragraphs and appending to DOM
       let flattened = [];
       for (let array in text) {
         flattened = flattened.concat(text[array]);
