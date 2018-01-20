@@ -9,7 +9,7 @@ function makeParagraph(lines, array) {
   for (let i = 0; i < lines; i++) {
     paragraphText += `${randomQuote(array)} `;
   }
-  console.log(paragraphText);
+  // console.log(paragraphText);
   return paragraphText;
 }
 
@@ -48,7 +48,9 @@ $('#getIpsum').click( () => {
 
   const output = fetch('./data/transcript-1.txt', {
     method: 'GET',
-    "content-type": "text/plain"
+    headers: {
+      "content-type": "text/plain"
+    }
   })
     .then(response => response.text())
     .then(text => {
