@@ -9,6 +9,7 @@ function makeParagraph(lines, array) {
   for (let i = 0; i < lines; i++) {
     paragraphText += `${randomQuote(array)} `;
   }
+  console.log(paragraphText);
   return paragraphText;
 }
 
@@ -45,9 +46,9 @@ $('#getIpsum').click( () => {
 
   const $numberOfParagraphs = $('#paragraphs').val();
 
-  const output = fetch('https://pb-livin.github.io/bojack-ipsum/data/transcript-1.txt', {
+  const output = fetch('./data/transcript-1.txt', {
     method: 'GET',
-    'content-type': "text/plain"
+    "content-type": "text/plain"
   })
     .then(response => response.text())
     .then(text => {
