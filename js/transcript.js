@@ -1,5 +1,12 @@
 'use strict';
 
+// breaks when fetch gets the data from the absolute url
+// so one of my maps or filters or whatever
+// is probably not compatible with the github-hosted version
+// maybe the \r's?
+// try debugging locally, but with absolute path
+// also look at transcript-1.txt on github
+
 function randomQuote(array) {
   return array[Math.floor(Math.random() * array.length)];
 }
@@ -46,7 +53,7 @@ $('#getIpsum').click( () => {
 
   const $numberOfParagraphs = $('#paragraphs').val();
 
-  const output = fetch('./data/transcript-1.txt', {
+  const output = fetch('https://pb-livin.github.io/bojack-ipsum/data/transcript-1.txt', {
     method: 'GET',
     headers: {
       "content-type": "text/plain"
@@ -56,7 +63,7 @@ $('#getIpsum').click( () => {
     .then(text => {
       text = text
         // splits on newlines between quotes
-        .split(/\n\r\n/)
+        .split(/\n\r?\n/)
         // removes carriage returns
         .map(line => line.replace(/\r/g, ''))
         // replaces newlines within quotes with a space
@@ -64,7 +71,7 @@ $('#getIpsum').click( () => {
         // removes empty lines
         .filter(line => line.length > 0)
         // removes stage directions in [ ], add ( )?
-        .map(line => line.replace(/\[.*\]/g, ''))
+        .map(line => line.replace(/[\[(].*[\])]/g, ''))
         // removes whitespace at either end of a line
         .map(line => line.trim())
         // splits lines at : and one or more spaces
