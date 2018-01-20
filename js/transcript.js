@@ -45,7 +45,7 @@ $('#getIpsum').click( () => {
 
   const $numberOfParagraphs = $('#paragraphs').val();
 
-  const output = fetch('data/transcript-1.txt', {
+  const output = fetch('https://pb-livin.github.io/bojack-ipsum/data/transcript-1.txt', {
     method: 'GET',
     'content-type': "text/plain"
   })
