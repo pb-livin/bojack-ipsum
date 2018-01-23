@@ -3,9 +3,9 @@
 // Regexes for removing xml tags:
   // all tags:
     // (<[^(><)]+>)
-    // or <[^(><)]+>
+    // or <[^<>]+>
   // all tags, including newlines after:
-    // <[^(><)]+>\n
+    // <[^<>]+>\n
   // all opening and closing <p> tags:
     // </?p[^<>]*>
   // only <p>:
@@ -83,6 +83,8 @@ $('#getIpsum').click( () => {
         .split(/\n\r?\n/)
         // removes carriage returns
         .map(line => line.replace(/\r/g, ''))
+        // removes music notes around song lyrics
+        .map(line => line.replace(/♪/g, ''))
         // replaces newlines within quotes with a space
         .map(line => line.replace(/\n/g, ' '))
         // removes empty lines
