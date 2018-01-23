@@ -1,6 +1,29 @@
 'use strict';
 
-// Regex for removing xml tags: (<[^(><)]+>)
+// Regexes for removing xml tags:
+  // all tags:
+    // (<[^(><)]+>)
+    // or <[^(><)]+>
+  // all tags, including newlines after:
+    // <[^(><)]+>\n
+  // all opening and closing <p> tags:
+    // </?p[^<>]*>
+  // only <p>:
+    // <p[^<>]*>
+  // only </p>:
+    // </p[^<>]*>
+  // all opening and closing <span> tags:
+    // </?span[^<>]*>
+  // all <br> tags:
+    // <br/?>
+
+// To get rid of all xml tags in Netflix subtitles:
+  // 1. Replace all breaks with 1 space
+  // 2. Delete all spans
+  // 3. Delete all opening p tags
+  // 4. Replace all closing p tags with newlines
+  // 5. Delete all tags followed by newlines
+  
 
 function randomQuote(array) {
   return array[Math.floor(Math.random() * array.length)];
