@@ -1,5 +1,7 @@
 'use strict';
 
+// Regex for removing xml tags: (<[^(><)]+>)
+
 function randomQuote(array) {
   return array[Math.floor(Math.random() * array.length)];
 }
