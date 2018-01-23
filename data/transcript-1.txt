@@ -892,7 +892,7 @@ JINGLE: When you're walking alone / Because Jellicles are and Jellicles do / Jel
 
 Cut to Princess Carolyn's office.
 
-PRINCESS CAROLYN: Bojack! It's your favorite agent.
+CAROLYN: Bojack! It's your favorite agent.
 
 Cut to bar.
 
@@ -900,7 +900,7 @@ BOJACK: Yeah, some agent. You couldn't even get me in the room for War Horse. Th
 
 Cut to Princess Carolyn's office.
 
-PRINCESS CAROLYN: Listen, dummy, I want to make sure you're all set for your first day with Diane tomorrow.
+CAROLYN: Listen, dummy, I want to make sure you're all set for your first day with Diane tomorrow.
 
 Cut to bar.
 
@@ -937,7 +937,7 @@ BOJACK: Laura, I know you're listening! You got it, right?
 
 Cut to receptionist desk outside Princess Carolyn's office. Princess Carolyn opens the door and pokes her head out. Laura is holding the phone to her ear.
 
-PRINCESS CAROLYN: Laura, do not respond to him. Goodbye, Bojack.
+CAROLYN: Laura, do not respond to him. Goodbye, Bojack.
 
 Cut to bar. BoJack hangs up the phone.
  
@@ -1288,11 +1288,11 @@ A jingle plays over the phone.
 
 JINGLE: When you're walking alone / Because Jellicles are and Je--
 
-PRINCESS CAROLYN (V.O.): BoJack...
+CAROLYN: BoJack...
 
 Cut to PRINCESS CAROLYN running on a treadmill at a gym.
 
-PRINCESS CAROLYN: ...are you watching MSNBSea right now?
+CAROLYN: ...are you watching MSNBSea right now?
 
 Cut to BOJACK in his office.
 
@@ -1308,7 +1308,7 @@ BOJACK: ...so no. No, I'm not watching MSNBSea right now.
 
 Cut to a wide view of PRINCESS CAROLYN running on a treadmill at a gym. She is flanked by two anthropomorphic runners, one a cheetah and one a sloth who is dangling from the machine. A human woman is standing in the background with a water bottle.
 
-PRINCESS CAROLYN: Yeah, well, Hamlet, you might want to turn it on. They're talking about you.
+CAROLYN: Yeah, well, Hamlet, you might want to turn it on. They're talking about you.
 
 Cut to BOJACK in his office.
 
@@ -1584,11 +1584,11 @@ Cut to black. The words "LIKE AN HOUR LATER" appear on the screen. Cut back to B
 
 JINGLE: Jellicles would / And Jellicles can
 
-PRINCESS CAROLYN: BoJack.
+CAROLYN: BoJack.
 
 BOJACK: Ah!
 
-PRINCESS CAROLYN: I'm gonna level with you, honey. This whole you hating the troops thing is not great.
+CAROLYN: I'm gonna level with you, honey. This whole you hating the troops thing is not great.
 
 BOJACK: I don't hate the troops! I just hate one specific troop. I don't even hate him, really.
 
@@ -1598,15 +1598,15 @@ BOJACK: I just think that he's wrong about the muffins.
 
 BOJACK draws the shades.
 
-PRINCESS CAROLYN: I know, BoJack -- just like always, you're right, and everyone else is wrong. But if you don't swallow your pride, this is never gonna let up. I know you're stubborn --
+CAROLYN: I know, BoJack -- just like always, you're right, and everyone else is wrong. But if you don't swallow your pride, this is never gonna let up. I know you're stubborn --
 
 BOJACK: I'm not stubborn. I'm proud.
 
-PRINCESS CAROLYN: That's kind of the same thing.
+CAROLYN: That's kind of the same thing.
 
 BOJACK: No, it's an important distinction.
 
-PRINCESS CAROLYN: Okay, fine. You're not stubborn. But I'm about to tell you something very important, so I want you to listen carefully. I'm getting another call. I'm gonna have to put you on hold.
+CAROLYN: Okay, fine. You're not stubborn. But I'm about to tell you something very important, so I want you to listen carefully. I'm getting another call. I'm gonna have to put you on hold.
 
 A jingle plays over the phone.
 
@@ -1696,7 +1696,7 @@ BOJACK: Yeah, gold doesn't strike.
 
 MR. PEANUTBUTTER: That's why you never know.
 
-PRINCESS CAROLYN: BoJack, be nice.
+CAROLYN: BoJack, be nice.
 
 MR. PEANUTBUTTER: Just pretend they're not there.
 
@@ -1710,15 +1710,15 @@ SOUND GUY: Whoa, whoa, whoa, whoa. That's too loud.
 
 BOJACK: I want to fix this as quickly as possible. I don't care who was right about the muffins anymore, even though I was definitely right. I just want my privacy back, so I can finish writing my tell-all memoir, so everyone will pay attention to me again.
 
-PRINCESS CAROLYN: I've already reached out to the McBeal camp. He's willing to publicly forgive you if you publicly apologize and present to him a box of muffins as a symbol of your great admiration for the American military and everything they do.
+CAROLYN: I've already reached out to the McBeal camp. He's willing to publicly forgive you if you publicly apologize and present to him a box of muffins as a symbol of your great admiration for the American military and everything they do.
 
 BOJACK: But I ate the muffins.
 
-PRINCESS CAROLYN: I know. We got another box. It's in the cupboard.
+CAROLYN: I know. We got another box. It's in the cupboard.
 
 BOJACK: Oh, you were saving those? I ate those too.
 
-PRINCESS CAROLYN: We've been here for ten minutes! it's okay, we'll get more muffins.
+CAROLYN: We've been here for ten minutes! it's okay, we'll get more muffins.
 
 TODD: I'll get the muffins, and they're on me. I just found out I got 80 bucks in the bank. I'm helping! Hooray!
 
@@ -1726,7 +1726,7 @@ TODD runs out the door.
 
 BOJACK: So where are we gonna do this? Do I have to go on MSNBSea?
 
-PRINCESS CAROLYN: No, we should do it somewhere people will actually see it.
+CAROLYN: No, we should do it somewhere people will actually see it.
 
 MR. PEANUTBUTTER: Oh, why don't you do it on Peanutbutter and Jelly?
 
@@ -1736,7 +1736,7 @@ MR. PEANUTBUTTER: It's a pun.
 
 BOJACK: It's not a pun if it only works one way.
 
-PRINCESS CAROLYN: Is this a necessary conversation to be having right now?
+CAROLYN: Is this a necessary conversation to be having right now?
 
 MR. PEANUTBUTTER: Look, I know tempers are high, but let's not take it out on the great title for my reality show, which we all agree is really clever.
 
@@ -1912,7 +1912,7 @@ BOJACK: Who wants chocolate chip pancakes?
 
 ETHAN: I do! I do!
 
-ALISON BRIE: Ethan, didn't you already eat your pancakes?
+OLIVIA: Ethan, didn't you already eat your pancakes?
 
 ETHAN: As Oliver North would say, "I do not recall."
 
@@ -1975,607 +1975,677 @@ DIRECTOR: And action.
 
 BOJACK: Why aren't you dressed for school, prickly muffin?
 
+A RYAN: You might remember her as adorable Sabrina from  Horsin' Around , but on her new dance pop album, Sarah Lynn wants you to know that she is hot to trot.
 
-
-
-
-
-You might remember her as adorable Sabrina from  Horsin' Around , but on her new dance pop album, Sarah Lynn wants you to know that she is hot to trot.
-
-♪ Why don't you touch   My prickly muffin? ♪
+SARA LYNN: ♪ Why don't you touch My prickly muffin? ♪
 ♪ My prickly muffin ♪
-♪ Ooh, prickly   And it's muffin, and it's-- ♪
+♪ Ooh, prickly And it's muffin, and it's-- ♪
 [gasps]
-♪ It's ready   For your stuffing ♪
+♪ It's ready For your stuffing ♪
 
-What is the message behind your music?
+A RYAN: What is the message behind your music?
 
-America needs to know that I'm not that little girl anymore. I'm a grown up, sophisticated woman now, and I have sex, and I do sexy things. People like sex, okay, and since I'm sexy right now, they like me.
+SARA LYNN: America needs to know that I'm not that little girl anymore. I'm a grown up, sophisticated woman now, and I have sex, and I do sexy things. People like sex, okay, and since I'm sexy right now, they like me.
 
-Are you at all worried that audiences will grow bored 
-and abandon you for the next sexy thing?
+A RYAN: Are you at all worried that audiences will grow bored and abandon you for the next sexy thing?
 
-[chuckles] Are you kidding? I'm Sarah freaking Lynn. I'm gonna be sexy forever!
+SARA LYNN: [chuckles] Are you kidding? I'm Sarah freaking Lynn. I'm gonna be sexy forever!
 
-Pop star and child actress, Sarah Lynn, celebrates her 30th birthday this month, raising the question, "does anyone care 
-about Sarah Lynn anymore?" After all, she is 30. Here to answer that question, sexy, 14-year-old dubstep wunderkind, Sextina Aquafina.
+A RYAN: Pop star and child actress, Sarah Lynn, celebrates her 30th birthday this month, raising the question, "does anyone care about Sarah Lynn anymore?" After all, she is 30. Here to answer that question, sexy, 14-year-old dubstep wunderkind, Sextina Aquafina.
 
-Hey!
+SEXTINA: Hey!
 
 [applause]
 
-Sextina, what's your take?
+A RYAN: Sextina, what's your take?
 
-I love Sarah Lynn. I grew up on her music, okay, and she's, like, an inspiration, but now, she is old, and shriveled, and gross, and nobody want her no more, okay? They want Sextina Aquafina, baby!
+SEXTINA: I love Sarah Lynn. I grew up on her music, okay, and she's, like, an inspiration, but now, she is old, and shriveled, and gross, and nobody want her no more, okay? They want Sextina Aquafina, baby!
 
-Ha ha! You're delightful. So where does Sarah Lynn go from here?
+A RYAN: Ha ha! You're delightful. So where does Sarah Lynn go from here?
 
-Oh, you know where she should go? She should go wherever famous people go when they're done being famous, 
-and nobody cares if they live or die.
+SEXTINA: Oh, you know where she should go? She should go wherever famous people go when they're done being famous, and nobody cares if they live or die.
 
 [horse whinnying doorbell ringing]
 
-Who could that be?
+BOJACK: Who could that be?
 
 [funky electronic music] 
 ♪ ♪
 
-Who-o-o wants chocolate chip pancakes?
+TODD: Who-o-o wants chocolate chip pancakes? I do! I do!
 
-I do! I do!
+BOJACK: Why are you talking to me?
 
-Why are you talking to me?
+TODD: I thought maybe if I said that, you'd make me chocolate chip pancakes.
 
-I thought maybe if I said that, you'd make me chocolate chip pancakes.
+BOJACK: [grumbles]
 
-[grumbles]
+TODD: Oh, come on, buddy. It's a beautiful morning, the sun is shining, birds are chirping--
 
-Oh, come on, buddy. It's a beautiful morning, the sun is shining, birds are chirping--
+BIRD 1: Hey, BoJack, any plans for the weekend?
 
-Hey, BoJack, any plans for the weekend?
+BIRD 2: Still hate the troops, Boj?
 
-Still hate the troops, Boj?
+BIRD 1: Why don't you refill your bird feeder, huh?
 
-Why don't you refill your bird feeder, huh?
+BIRD 2: Yeah, who's a bird got to blow to get some seed around here?
 
-Yeah, who's a bird got to blow to get some seed around here?
+BIRD 1: [chuckles] Good one.
 
-[chuckles] Good one.
+TODD: Let's do something fun today. 
 
-Let's do something fun today. 
+HOJACK: Like what?
 
-Like what?
-
-Like a cannonball!
-
+TODD: Like a cannonball!
 Like a "buying you a new bed"?
 
-Wow, everything in this store is made out of old train tracks and a reclaimed pier. Oh, great, for ten grand, I can sleep like a hobo.
+TODD: Wow, everything in this store is made out of old train tracks and a reclaimed pier.
 
-Do we need letter openers made out of Confederate bayonets? It says they're stained with authentic Yankee blood.
+BOJACK: Oh, great, for ten grand, I can sleep like a hobo.
 
-O-M-G. O-M-G! O-M-M-F-C-S-D-V-R-Q-Q-P-Q-F-G!
+TODD: Do we need letter openers made out of Confederate bayonets? It says they're stained with authentic Yankee blood.
 
-I know.
+GIRL 1: O-M-G. O-M-G! O-M-M-F-C-S-D-V-R-Q-Q-P-Q-F-G!
 
-Ugh. Yeah, it's me, straight off your TV screens and into your shitty lives.
+GIRL 2: I know.
 
-It's Sarah Lynn and Andrew Garfield.
+BOJACK: Ugh. Yeah, it's me, straight off your TV screens and into your shitty lives.
 
-[screams]
+GIRL 1: It's Sarah Lynn and Andrew Garfield. [screams]
 
-Huh? What the--?
+BOJACK: Huh? What the--?
 
-And what's your name, darling?
+ANDREW: And what's your name, darling?
 
-I-- mm--
+GIRL 2: I-- mm--
 
-I'll just make it out to "Evelyn."
+ANDREW: I'll just make it out to "Evelyn."
 
-Uh--
+GIRL 2: Uh--
 
-Um, hi. Sarah Lynn, hi.
+BOJACK: Um, hi. Sarah Lynn, hi.
 
-BoJack? Hey. Andrew, this is BoJack, my TV dad.
+SARA LYNN: BoJack? Hey. Andrew, this is BoJack, my TV dad.
 
-Oh, hello, I'm Andrew Garfield.
+ANDREW: Oh, hello, I'm Andrew Garfield.
 
-Andrew's my boyfriend. We're a celebrity power couple. It's no big deal. [whispering] It's a really big deal.
+SARA LYNN: Andrew's my boyfriend. We're a celebrity power couple. It's no big deal. [whispering] It's a really big deal.
 
-Sarah Lynn, I actually wanted to talk to you about that. When we started dating, you were the biggest star in the world, but your last few albums tanked, so now, I don't even know what you are anymore.
+ANDREW: Sarah Lynn, I actually wanted to talk to you about that. When we started dating, you were the biggest star in the world, but your last few albums tanked, so now, I don't even know what you are anymore.
 
-Are you-- Are you breaking up with me?
+SARA LYNN: Are you-- Are you breaking up with me?
 
-Oh, bother.
+ANDREW: Oh, bother.
 
-Um, are those candy pills, 'cause if so, that is a lot of sugar.
+BOJACK: Um, are those candy pills, 'cause if so, that is a lot of sugar.
 
-Why are you doing this to me? Do you like seeing me suffer? Because you know I'll bleed for you. Ugh!
+SARA LYNN: Why are you doing this to me? Do you like seeing me suffer? Because you know I'll bleed for you. Ugh!
 
 [all gasp]
 
-Oh!
+BOJACK: Oh!
 
-Damn! 
+TODD: Damn! 
 
-Oh, dear.
+ANDREW: Oh, dear.
 
-Whoa-oh-oh. Um--
+BOJACK: Whoa-oh-oh. Um--
 
-Darling, please, I wanted to do this in a public place so you wouldn't make a scene.
+ANDREW: Darling, please, I wanted to do this in a public place so you wouldn't make a scene.
 
-You think I won't make a scene, you limey bastard? Then you really don't know me at all.
+SARA LYNN: You think I won't make a scene, you limey bastard? Then you really don't know me at all. Hey, everyone! Who wants to see me take a dump on that sofa?
 
-Hey, everyone! Who wants to see me take a dump on that sofa?
+BOJACK: And then she took a dump on a sofa made out of a reclaimed propeller.
 
-And then she took a dump on a sofa made out of a reclaimed propeller.
+DIANE: Where's Sarah Lynn now?
 
-Where's Sarah Lynn now?
+BOJACK: I checked her into Promises. 28 days, she'll be good as new.
 
-I checked her into Promises. 28 days, she'll be good as new.
+DIANE: How did it feel to check the girl you raised on television into rehab?
 
-How did it feel to check the girl you raised on television into rehab? 
-It was tough. I would have liked to reconnect with her. At least we got to bond a little on the drive to Malibu.
+BOJACK: It was tough. I would have liked to reconnect with her. At least we got to bond a little on the drive to Malibu.
 
-I can see my organs.
+SARA LYNN: I can see my organs.
 
-Oh, whoa! She is losing a lot of blood, BoJack.
+TODD: Oh, whoa! She is losing a lot of blood, BoJack.
 
-Beautiful day for a drive, though, huh?
+BOJACK: Beautiful day for a drive, though, huh?
 
-Well, maybe the two of you can catch up some more when she gets out of rehab. People don't usually want to hang out with me after rehab. I'm really more of a before-rehab friend. I think it's gonna be a long time before I see Sarah Lynn again.
+DIANE: Well, maybe the two of you can catch up some more when she gets out of rehab.
+
+BOJACK: People don't usually want to hang out with me after rehab. I'm really more of a before-rehab friend. I think it's gonna be a long time before I see Sarah Lynn again.
 
 [horse whinnying doorbell ringing]
 
-Who could that be?
+BOJACK: Who could that be?
 
-Look, BoJack, I appreciate what you were trying to do, but I don't need rehab. Look, good as new, huh?
+SARA LYNN: Look, BoJack, I appreciate what you were trying to do, but I don't need rehab. Look, good as new, huh?
 
-Oh, great, well, that's a relief. Uh, should you be taking all those pills?
+BOJACK: Oh, great, well, that's a relief. Uh, should you be taking all those pills?
 
-It's dexitriathylphenolbarbatol. I got it from a doctor.
+SARA LYNN: It's dexitriathylphenolbarbatol. I got it from a doctor.
 
-Your doctor or just a doctor?
+BOJACK: Your doctor or just a doctor?
 
-I don't know, some doctor, okay? I met him at Adam Levine's Halloween party. I think he said his name was Dr. Who. Yeah, I don't think that was--
+SARA LYNN: I don't know, some doctor, okay? I met him at Adam Levine's Halloween party. I think he said his name was Dr. Who.
 
-Ohh, God damn.
+BOJACK: Yeah, I don't think that was--
 
-Uh, are you supposed to be snorting it like that?
+SARA LYNN: Ohh, God damn.
 
-Ugh! What are you, the paramedic who restarted my heart at Adam Levine's Halloween party?
+BOJACK: Uh, are you supposed to be snorting it like that?
 
-Okay, so before we put to bed the whole you going to rehab thing--
+SARA LYNN: Ugh! What are you, the paramedic who restarted my heart at Adam Levine's Halloween party?
 
-BoJack, all my life, I've never been forced to confront my problems head on. No one has ever said "no" to me, ever, so is it cool if instead of confronting my problems head on, I just hide out here for a little bit?
+BOJACK: Okay, so before we put to bed the whole you going to rehab thing--
 
-Sarah Lynn, I hear what you're saying, and I think I know what you need. You just need a strong, responsible adult to say, "Yes. Yes, you can move in with me." This is gonna be fun. Hey, everyone, the old gang's getting back together.
+SARA LYNN: BoJack, all my life, I've never been forced to confront my problems head on. No one has ever said "no" to me, ever, so is it cool if instead of confronting my problems head on, I just hide out here for a little bit?
 
-♪ Three little orphans   One, two, three  ♪
+BOJACK: Sarah Lynn, I hear what you're saying, and I think I know what you need. You just need a strong, responsible adult to say, "Yes. Yes, you can move in with me." This is gonna be fun. Hey, everyone, the old gang's getting back together.
+[singing] ♪ Three little orphans
+One, two, three-- ♪
 
-Who-o-o wants chocolate chip pancakes?
+BOJACK: Who-o-o wants chocolate chip pancakes?
 
-I do! I do!
+SARA LYNN: I do! I do!
 
-Uh, what's going on in here?
+TODD: Uh, what's going on in here?
 
-Morning, sleepy-pooh, you want pancakes?
+BOJACK: Morning, sleepy-pooh, you want pancakes?
 
-Yeah, that sounds great.
+TODD: Yeah, that sounds great.
 
-Ooh, tough break, champ. I just gave the last one to Sarah Lynn. Early bird gets the worm.
+BOJACK: Ooh, tough break, champ. I just gave the last one to Sarah Lynn. Early bird gets the worm.
 
-More like early turd gets the sperm.
+SARA LYNN: More like early turd gets the sperm.
 
-Wha-- "Early turd gets the sperm," nice one, Sarah Lynn. You should do a Shouts and Murmurs. Help yourself to some cold wheat bran, sport.
+BOJACK: Wha-- "Early turd gets the sperm," nice one, Sarah Lynn. You should do a Shouts and Murmurs. Help yourself to some cold wheat bran, sport.
 
-Ugh.
+TODD: Ugh.
 
-Thanks for letting me crash here, BoJack.
+SARA LYNN: Thanks for letting me crash here, BoJack.
 
-The guest room is yours as long as you want.
+BOJACK: The guest room is yours as long as you want.
 
-You have a guest room? Why have I been sleeping on the couch for five years?
+TODD: You have a guest room? Why have I been sleeping on the couch for five years?
 
+BOJACK: You'll get the guest room when you've earned the guest room.
 
+SARA LYNN: These pancakes are so good. All Andrew ever wanted to eat was stupid lasagna.
 
+TODD: Andrew Garfield loves lasagna?
 
+SARA LYNN: I don't want to talk about him! BoJack, can you drive me to the mall today? I really want to go shopping, but I'm not allowed to drive because somebody got a DUI.
 
+TODD: Uh, that somebody was you, right?
 
+SARA LYNN: I don't have to answer your questions! What are you, the cop that pulled me over after Adam Levine's Halloween party?
 
-You'll get the guest room when you've earned the guest room. 
-These pancakes are so good. 
-All Andrew ever wanted to eat was stupid lasagna. 
-Andrew Garfield loves lasagna? 
-I don't want to talk about him! 
-BoJack, can you drive me to the mall today? 
-I really want to go shopping, but I'm not allowed to drive 
-because somebody got a DUI. 
-Uh, that somebody was you, right? 
-I don't have to answer your questions! 
-What are you, the cop that pulled me over 
-after Adam Levine's Halloween party? 
-Honey, do you really think going to the mall's a good idea? 
-I seem to recall another time you went shopping 
-when things got pretty out of control. 
-Oh, that's too much, man! 
-[cheering and theme music] 
-Really? Not the time when she gored herself 
-with a bayonet and shat on a floor model? 
-Hey, I'm not the crazy one. 
-Andrew's the one who flies off the handle 
-whenever his agent sets up an audition on a Monday. 
-Andrew Garfield hates Mondays and loves lasagna? 
-I said I don't want to talk about it! 
-- She said drop it, Todd! - Whatever, 
-I don't want to go to the stupid mall. 
-I'll just tell my friends to come here. 
-Muffin, I've got to work on my book today, 
-and I can't have a bunch of folks over 
-making a lot of noise. 
-Oh, I see. I'm a burden to you. 
-No, no, no, no, no. Sweetheart. Sweetheart. 
-I'm no longer cute, so I have nothing to offer this world. 
-Honey, of course your friends are always welcome here. 
-Cool. Bye. 
-- Can I invite a frien-- - No. 
-You let that basket case into your house? 
-That girl is a PR hurricane that you don't need right now. 
-She has nowhere else to turn. She broke up with her boyfriend. 
-She stabbed herself and closed the wound with duct tape. 
-- She fired her agent. - Whoa, whoa, whoa. 
-Back it up, horsey. 
-Did you say Sarah Lynn doesn't have an agent? 
-Laura, hold my calls, cancel everything! 
-Ahab's got a white whale to catch, baby! 
-[vase smashes on the ground] [footsteps] 
-Uh, hello? Still there? 
-[house music] 
-♪ ♪ 
-Oh, th-- that's-- That's fragile. 
-Uh, no, oh, no, wait. [glass breaking] 
-Careful. Careful. Careful. 
-Whoa! Hey, hey, hey! 
-Ah! Lemur! 
-♪ ♪ 
-[grunts] 
-♪ ♪ 
-- Great party, Sarah Lynn. - [blows raspberry] 
-Hi, what it is, banana bread? 
-I'm not looking for a new agent right now. 
-Oh, whoa, whoa. Who says I'm looking for a new client? 
-Slow your roll, Speed Racer. 
-We're just two single ladies having a no-presh rap sesh. 
-I'm not one of those agents who can't turn it off. 
-Your Ari Emanuels and Vanessa Geckos and what have you. 
-Vanessa Gecko is actually Andrew's agent, 
-and she's really great. 
-Is she? I've heard that. 
-I didn't realize you were so into house music. 
-Look, I asked her to turn it down, but apparently, 
-this volume was prescribed by Dr. Who 
-to treat something called "uptight dickhead disease." 
-What do you-- What do you think about Sarah Lynn? 
-Oh, I don't really think about her all that much. 
-I mean, obviously, I'm a fan of her early work 
-which both satirized and celebrated 
-youth culture's obsession with sex, 
-but I do wonder as a third-wave feminist 
-if it's even possible for women to reclaim their sexuality 
-in this deeply entrenched patriarchal society, 
-or if claiming to do so is just a lie we tell ourselves 
-so we can more comfortably cater to the male gaze. 
-- Uh, what? - But you know, 
-on the other hand, I worry that conversations like this one 
-often dismiss her as a mere puppet of the industry... 
-- That's my same worry. - ...incapable of engaging 
-- in these discussions herself... - Obviously. 
-...and infantilization, which is itself a product 
-- of the deeply misogynistic... - So deep. 
-...society we live in. But like I said, 
-I don't really think about her all that much. 
-Okay, well, that is very interesting, 
-but I was more asking, 
-like, what do you think about her living here? 
-Oh, right. 
-Well, what was your relationship like 
-with her when you were working on the show? 
-It was very good, very professional. 
-BoJack, where did you go to college? 
-- Don't bother him, honey. - Oh, it's no problem. 
-Honey, college is for ugly people who can't tap dance. 
-- I want to be an architect. - [laughing] Sweetheart, 
-Mommy didn't do what Mommy did to that  Star Search  producer 
-so that you could be an architect. 
-- Aw. - All right, 
-- take it sleazy, everybody. - Wait, BoJack, 
-um, what are you doing this weekend? 
-I don't know. I'll probably just go 
-to the amusement park, maybe the circus, 
-fly a kite on the beach, watch the sunset, 
-then I'll head back to my place 
-to watch any number of Disney princess movies 
-while eating ice cream straight from the tub. 
-Whoa, that sounds like so much fun. 
-Can I come? 
-[laughing] Yeah, like I want to spend my weekend 
-hanging out with a little girl. [laughing] Good one! 
-You should write for the Shouts and Murmurs. 
-See you Monday! 
-So the makeup they were putting on you 
-was not for the show, it was just for the weekend? 
-Why does that matter? 
-I'm just trying to understand the story. 
-Do you think it's possible that you inviting Sarah Lynn 
-into your house now is your way of compensating for not-- 
-No, Diane, I'm just helping out a friend. 
-I'm not trying to play out some weird, sick dad fantasy, 
-or resolve a deep guilt for past neglect, 
-or even try to retroactively fix my own childhood 
-by recreating someone else's, 
-and I'm especially not doing all those things at once! 
-Okay. 
-- [loud crash] - What happened? 
-Did somebody hurt my precious baby? 
-Sarah Lynn! Ah! What the--? 
-Oh, hey, BoJack. 
-I told my friends they could tear this wall out to build 
-a sweet cocaine booth/sex closet. 
-- Is that cool? - No, that's not cool. 
-Oof. Way to harsh the vibe, Kissinger. 
-Oh, I'm sorry. I didn't realize. 
-I thought this was a place where Sarah Lynn 
-could finally be Sarah Lynn, but I guess... 
-that's too much, man. 
-I always loved that catch phrase. 
-Can your friends at least take the artwork off the wall first? 
-Ooh. I want to say yes, but no. 
-- Okay, good talk. - Wha-- Are you serious? 
-The reason I have called this house meeting is-- 
-Todd, how many times have we been over this? 
-You don't have the authority to call house meetings. 
-Only I can call a house meeting. You can propose a house meeting. 
-All right, fine, fine, fine, but the reason I propose 
-- this house meeting-- - Your proposal has been 
-submitted and is under board review. 
-- Proposal denied. - BoJack, this Sarah Lynn thing 
-is getting out of control, okay? She's taking advantage of you. 
-What? No she's not. We have a special relationship. 
-You couldn't possibly understand. 
-Oh, my God. Look at what she's done to your house. 
-All right, look, I mean, I stepped on a needle earlier. 
-I think I'm addicted to heroin now, 
-so now, that's probably gonna be a whole thing. 
-I have to say, I agree with Todd. 
-You're not this girl's father, and you're not doing her 
-any favors by refusing to set boundaries. 
-Look, I played a dad for nine years on TV, 
-so I think I know a little bit more about parenting 
-than you two jokers. The kids on  Horsin' Around  
-didn't need boundaries. 
-All they needed was some good, old-fashioned love. 
-BoJack! This is not a TV show, okay? 
-This is real life. 
-Ah! Lemur on fire! Lemur on fire! 
-Some good, old-fashioned love, and I'm gonna give it to her. 
-I'm gonna give it to her so... hard. 
-You know, I feel like we don't ever hang out. 
-Here you are, milady, 
-a gin and nutmeg just like you asked. 
-Ugh. Too much nutmeg. 
-Well, you know what would taste even better? 
-An endorsement for a Slovakian yogurt. 
-Could Vanessa Gecko get you that? 
-Vanessa Gecko got Andrew  The Social Network , 
-and she has skybox seats at the Staples Center. 
-- What do you have? - Well, I've got a table 
-at the Comedy Central roast of Gloria Stein-- 
-Hey, Sarah Lynn, what say we spend the day together, 
-just you and me, away from all the haters? 
-- I want to say yes, but-- - Great, let's go. 
-♪ It really seems like   Some things are forever ♪  
-♪ in this world ♪  
-♪ Don't you know   I'm feeling fine ♪  
-♪ Together with my girl ♪  
-♪ Daddy's girl   She's daddy's girl ♪  
-You know, Sarah Lynn, I got a feeling 
-- everything's gonna be okay. - Uh-huh. 
-Hey, did you hear Kazaz got cancer? 
-What? Herb Kazaz has cancer? 
-Yeah, in the butt. He's got, like, six months I think. 
-Well, that's horrible. Why would you tell me that now? 
-I don't know. The sun setting over those two hills 
-made me think of a big ass, and that made me think 
-of ass cancer, and that made me think 
-of Herb Kazaz's ass cancer. You really didn't know? 
-No, Herb and I aren't on the best-- 
-Look, I'm trying to have a moment here. I can't-- 
-Hey, I want to give you something. 
-Is this your TV Guide award? 
-It's the most prestigious award I ever won. 
-I always thought if I ever had kids of my own, 
-I'd give it to them one day. I want you to have it. 
-Oh, wow. BoJack, thanks. You're sweet. 
-[sighs]  ♪ Na-na-na-na La-la-la-la ♪  
-♪ Na-na-na-na   La-la-la-la ♪  
-- What are you doing? - Shh. 
-Just let the credits roll, let the credits roll. 
-♪ Sha-na-na-na-na-na   Special moment ♪  
-♪ Exec Producer Garry Marshall ♪  
-♪ Na-na-na   Such a happy day ♪  
-"Sit, Ubu, sit." "Good dog." "Arf." 
-- Can we go home now? - Yeah, okay, we're done. 
-♪ Hey now, boy, come and try   My clitoris is ginormous ♪  
-[phone buzzing] 
-- Hello?  - BoJack Horseman.  
-Did you get rid of your old TV Guide award? 
-This pawnshop on La Cienega was selling one 
-- with your name on it. - What? 
-Wait, why were you at a pawnshop? 
-Oh, I just have a guy there who calls me 
-whenever TV awards come in so I can buy 'em. 
-I put my name on, it's like I won it myself! 
-I have two Golden Globes 
-and a People's Choice for Temple Grandin.  
-Sarah Lynn! 
-Hello? You still there? 
-♪ My clitoris is ginor-- ♪  [record scratch] 
-Okay, party's over. Everybody out. 
-- [all] Aw! - Not you. 
-You are in big trouble, young lady. 
-I can't believe you pawned my award. 
-It wasn't personal. I just thought your award was stupid, 
-and I already have a billion other awards, 
-and I wanted to get money for drugs. 
-Look, things have been tough for you, and I understand that. 
-I know what you're going through right now. 
-[chuckling] Oh, you know what I'm going through? Why? 
-Because you were on some dumb kids show a million years ago? 
-- Hey, now. - I had my own fashion line 
-when I was ten. By 20, I was packing stadiums. 
-I get letters every day from boys telling me 
-that I was the first girl they masturbated to. 
-Literally, someone tells me that every day. 
-- That is gross. - Oh-ho, I know! 
-You sit up here in your little house 
-and feel sorry for yourself? Oh, guess what, Bo-j, 
-in order to be a has-been, you have to have actually, 
-- you know, been. - You are way out of line! 
-You're not my dad. You're just a rugged, older man 
-who provided me with a strong, masculine presence 
-during my formative years. 
-I'm not your dad, and you're not my child. 
-We're just a man and a lady living in a house together, 
-and we're both adults, and we're both a little drunk. 
-[both groaning] 
-Who-o-o lit my ottoman on fire? 
-Seriously, you seriously don't know? 
-I'm a bad "widdle" girl. 
-Yeah, you are bad, very bad! 
-You want me to put it out with my boob? 
-- Uh, what? - Your boob 
-is a very impractical way to put out a fire. 
-What is happening? 
-I think you have a serious drug problem. 
-The only drug I need is horse. 
-Guys, guys, what are you doing? 
-Please don't do this. [both moaning] 
-No, no. Why are you-- [both moaning] 
-- [whinnies] - This is a very bad idea. 
-[both moaning] Can I at least get my blanket-- 
-Let me get my blanket out from under-- 
-Oh G-- Oh, my God, my arm. 
-- You got my arm. - [laughs] Ow! Ow! 
-I'm in it now. Oh, God, no! I'm a part of it. 
-[both moaning] 
-I still haven't regained the feeling in my fingers. 
-That was the longest two minutes of my life. 
-Um, I think it was a little longer than two minutes. 
-It was longer than two minutes. 
-How do you not get that this is terrible? 
-Oh, you mean from a P.R. standpoint? 
-Yeah, 'cause if this got out, oh, I would get flayed! 
-Oh, I'm done being the voice of reason. 
-It's exhausting. I got to take an angry nap. 
-Ugh. Ugh. Ugh. 
-I know. I know. She's taking advantage of me. 
-Actually, it kind of feels like you're the one 
-taking advantage of her. She's the one 
-with substance abuse problems and daddy issues. 
-Hey, we both have substance abuse problems 
-- and daddy issues. - Yeah, but she came to you 
-- for help. - [sighs] 
-Hey, notice how I've been ignoring you, 
-playing hard to get? Only makes you want me more. 
-Ugh. Go stand on the other side of the room. 
-- Okay. - Sarah Lynn, get your coat. 
-- I'm taking you to rehab. - Nah, 
-I was gonna keep hanging out here if that's all right. 
-- No, it's not all right. - What? 
-This place isn't good for you. 
-You need to go where you can get help, real help. 
-But I thought you were always gonna be there for me 
-like you said. 
-I will always be there for you. 
-Cut, let's take ten. 
-That's ten, everyone. Let's make it a tight ten. 
-- These pages are shit. - [coughs] 
-you understand? Shit. 
-I wouldn't wipe my ass with these pages. 
-It would defeat the whole purpose of wiping my ass. 
-- Phone for you. - Uh-huh. 
-You get me points on the back end? 
-- [coughs] - Well, I told you 
-I'm not gonna do it unless I get points. 
-Oh, they can't find any? 
-Well, maybe they could suck some out of my dick! 
-- [coughs] - I'm on the phone. 
-- You're being very rude. - [laughs] 
-You promised me you would always be there. 
-Sarah Lynn, this is for your own good. 
-You can't stay here anymore. 
-Okie-doke. I guess I'll just move out 
-and find one of the billion people 
-who will let me party at their house. 
-Uh, well, you should not do that. 
-Oh, I know. I know, but I can, so I will. 
-I'm at a place right now where I never need 
-to grow as a person or rise to an occasion 
-because I can constantly just surround myself 
-with sycophants and enablers until I die tragically young. 
-- Wh-What? - Yeah, 
-it's pretty much too late for me. 
-Well, them's the breaks. Take it sleazy, everybody. 
-Oh, by the way, I called Vanessa Gecko, 
-and I'm meeting with her tomorrow. 
-- Thanks for the suggestion. - No! No, no, no, no, no! 
-Hey, you guys want to hear my new catchphrase? 
-Suck a dick, dumb shits! [blows raspberry] 
-[grunting] 
-Laura, the dummy took the bait. Now for phase two. 
-Is she gone? Is it safe to come out? 
-Leak to the trades that Andrew Garfield's agent 
-is taking meetings with his ex, get it all over town, 
-wait an hour, then get me lunch with Andrew 
-on the books for this weekend, someplace Italian. 
-I really blew it, didn't I? 
-I mean, maybe you could have been a better role model 
-when she was young, but also, she never really had a chance. 
-This is what our celebrity culture does to people. 
-So what you're saying is, Everything is society's fault, 
-and we as individuals never need 
-to take responsibility for anything? 
-Uh, no. Not exactly. I was just saying that-- 
-Yeah. I like that. I didn't do anything wrong 
-because I can't do anything wrong 
-because we're all just products of our environment, 
-bouncing around like marbles 
-in the game of Hungry Hungry Hippos 
-that is our random and cruel universe. 
-Wait, no, that's not even what I'm saying-- 
-Yeah, It's not my fault. It's society. 
-Everything is because of society! 
-- BoJack, that-- - Dude, just let him have this. 
-Hooray! Everything is meaningless! 
-Nothing I do   has consequence!  
-So what'd you get, anything good? 
-Oh, I got everything. 
-[both laugh] 
-[both chuckle] 
-♪ Back in the '90s ♪  
-♪ I was in a very famous TV show ♪  
-♪ ♪  
-- ♪ I'm BoJack the horse ♪   - ♪ BoJack ♪  
-♪ BoJack the horse ♪  
-♪ Don't act like you don't know ♪  
-♪ ♪  
-♪ And I'm trying to hold on to my past ♪  
-♪ It's been so long ♪  
-♪ I don't think I'm gonna last ♪  
-♪ I guess I'll just try ♪  
-♪ And make you understand ♪  
-♪ That I'm more horse than a man ♪  
-♪ Or I'm more man than a horse ♪  
-♪ BoJack ♪  
-Boxer versus raptor.  
-♪ Na na na na na na na na ♪  
+BOJACK: Honey, do you really think going to the mall's a good idea? I seem to recall another time you went shopping when things got pretty out of control.
+
+SABRINA: Oh, that's too much, man!
+
+[cheering and theme music]
+
+TODD: Really? Not the time when she gored herself with a bayonet and shat on a floor model?
+
+SARA LYNN: Hey, I'm not the crazy one. Andrew's the one who flies off the handle whenever his agent sets up an audition on a Monday.
+
+TODD: Andrew Garfield hates Mondays and loves lasagna?
+
+SARA LYNN: I said I don't want to talk about it!
+
+BOJACK: She said drop it, Todd!
+
+SARA LYNN: Whatever, I don't want to go to the stupid mall. I'll just tell my friends to come here.
+
+BOJACK: Muffin, I've got to work on my book today, and I can't have a bunch of folks over making a lot of noise.
+
+SARA LYNN: Oh, I see. I'm a burden to you.
+
+BOJACK: No, no, no, no, no. Sweetheart. Sweetheart.
+
+SARA LYNN: I'm no longer cute, so I have nothing to offer this world.
+
+BOJACK: Honey, of course your friends are always welcome here.
+
+SARA LYNN: Cool. Bye.
+
+TODD: Can I invite a frien--
+
+BOJACK: No.
+
+CAROLYN: You let that basket case into your house? That girl is a PR hurricane that you don't need right now.
+
+BOJACK: She has nowhere else to turn. She broke up with her boyfriend. She stabbed herself and closed the wound with duct tape. She fired her agent.
+
+CAROLYN: Whoa, whoa, whoa. Back it up, horsey. Did you say Sarah Lynn doesn't have an agent? Laura, hold my calls, cancel everything! Ahab's got a white whale to catch, baby!
+
+[vase smashes on the ground]
+
+[footsteps]
+
+BOJACK: Uh, hello? Still there?
+
+[house music]
+
+♪ ♪
+
+TODD: Oh, th-- that's-- That's fragile. Uh, no, oh, no, wait.
+
+[glass breaking]
+
+TODD: Careful. Careful. Careful.
+Whoa! Hey, hey, hey!
+Ah! Lemur!
+
+♪ ♪
+
+[grunts]
+
+♪ ♪
+
+LEMUR: Great party, Sarah Lynn. [blows raspberry]
+
+CAROLYN: Hi, what it is, banana bread?
+
+SARA LYNN: I'm not looking for a new agent right now.
+
+CAROLYN: Oh, whoa, whoa. Who says I'm looking for a new client? Slow your roll, Speed Racer. We're just two single ladies having a no-presh rap sesh. I'm not one of those agents who can't turn it off. Your Ari Emanuels and Vanessa Geckos and what have you.
+
+SARA LYNN: Vanessa Gecko is actually Andrew's agent, and she's really great.
+
+CAROLYN: Is she? I've heard that.
+
+DIANE: I didn't realize you were so into house music.
+
+BOJACK: Look, I asked her to turn it down, but apparently, this volume was prescribed by Dr. Who to treat something called "uptight dickhead disease." What do you-- What do you think about Sarah Lynn?
+
+DIANE: Oh, I don't really think about her all that much. I mean, obviously, I'm a fan of her early work which both satirized and celebrated youth culture's obsession with sex, but I do wonder as a third-wave feminist if it's even possible for women to reclaim their sexuality in this deeply entrenched patriarchal society, or if claiming to do so is just a lie we tell ourselves so we can more comfortably cater to the male gaze.
+
+BOJACK: Uh, what?
+
+DIANE: But you know, on the other hand, I worry that conversations like this one often dismiss her as a mere puppet of the industry...
+
+BOJACK: That's my same worry.
+
+DIANE: ...incapable of engaging in these discussions herself...
+
+BOJACK: Obviously.
+
+DIANE: ...and infantilization, which is itself a product of the deeply misogynistic...
+
+BOJACK: So deep.
+
+DIANE: ...society we live in. But like I said, I don't really think about her all that much.
+
+BOJACK: Okay, well, that is very interesting, but I was more asking, like, what do you think about her living here?
+
+DIANE: Oh, right. Well, what was your relationship like with her when you were working on the show?
+
+BOJACK: It was very good, very professional.
+
+SARA LYNN: BoJack, where did you go to college?
+
+SARA LYNN'S MOTHER: Don't bother him, honey.
+
+BOJACK: Oh, it's no problem.
+
+SARA LYNN'S MOTHER: Honey, college is for ugly people who can't tap dance.
+
+SARA LYNN: I want to be an architect.
+
+SARA LYNN'S MOTHER: [laughing] Sweetheart, Mommy didn't do what Mommy did to that Star Search producer so that you could be an architect.
+
+SARA LYNN: Aw.
+
+BOJACK: All right, take it sleazy, everybody.
+
+SARA LYNN: Wait, BoJack, um, what are you doing this weekend?
+
+BOJACK: I don't know. I'll probably just go to the amusement park, maybe the circus, fly a kite on the beach, watch the sunset, then I'll head back to my place to watch any number of Disney princess movies while eating ice cream straight from the tub.
+
+SARA LYNN: Whoa, that sounds like so much fun. Can I come?
+
+BOJACK: [laughing] Yeah, like I want to spend my weekend hanging out with a little girl. [laughing] Good one! You should write for the Shouts and Murmurs. See you Monday!
+
+DIANE: So the makeup they were putting on you was not for the show, it was just for the weekend?
+
+BOJACK: Why does that matter?
+
+DIANE: I'm just trying to understand the story. Do you think it's possible that you inviting Sarah Lynn into your house now is your way of compensating for not--
+
+BOJACK: No, Diane, I'm just helping out a friend. I'm not trying to play out some weird, sick dad fantasy, or resolve a deep guilt for past neglect, or even try to retroactively fix my own childhood by recreating someone else's, and I'm especially not doing all those things at once!
+
+DIANE: Okay.
+
+[loud crash]
+
+BOJACK: What happened? Did somebody hurt my precious baby?
+Sarah Lynn! Ah! What the--?
+
+SARA LYNN: Oh, hey, BoJack. I told my friends they could tear this wall out to build a sweet cocaine booth/sex closet. Is that cool?
+
+BOJACK: No, that's not cool.
+
+CAROLYN: Oof. Way to harsh the vibe, Kissinger.
+
+SARA LYNN: Oh, I'm sorry. I didn't realize. I thought this was a place where Sarah Lynn could finally be Sarah Lynn, but I guess... that's too much, man.
+
+BOJACK: I always loved that catch phrase. Can your friends at least take the artwork off the wall first?
+
+SARA LYNN: Ooh. I want to say yes, but no.
+
+BOJACK: Okay, good talk.
+
+TODD: Wha-- Are you serious?
+
+TODD: The reason I have called this house meeting is--
+
+BOJACK: Todd, how many times have we been over this? You don't have the authority to call house meetings. Only I can call a house meeting. You can propose a house meeting.
+
+TODD: All right, fine, fine, fine, but the reason I propose this house meeting--
+
+BOJACK: Your proposal has been submitted and is under board review. Proposal denied.
+
+TODD: BoJack, this Sarah Lynn thing is getting out of control, okay? She's taking advantage of you.
+
+BOJACK: What? No she's not. We have a special relationship. You couldn't possibly understand.
+
+TODD: Oh, my God. Look at what she's done to your house. All right, look, I mean, I stepped on a needle earlier. I think I'm addicted to heroin now, so now, that's probably gonna be a whole thing.
+
+DIANE: I have to say, I agree with Todd. You're not this girl's father, and you're not doing her any favors by refusing to set boundaries.
+
+BOJACK: Look, I played a dad for nine years on TV, so I think I know a little bit more about parenting than you two jokers. The kids on  Horsin' Around  didn't need boundaries. All they needed was some good, old-fashioned love.
+
+TODD: BoJack! This is not a TV show, okay? This is real life.
+
+LEMUR: Ah! Lemur on fire! Lemur on fire!
+
+BOJACK: Some good, old-fashioned love, and I'm gonna give it to her. I'm gonna give it to her so... hard.
+
+TODD: You know, I feel like we don't ever hang out.
+
+CAROLYN: Here you are, milady, a gin and nutmeg just like you asked.
+
+SARA LYNN: Ugh. Too much nutmeg.
+
+CAROLYN: Well, you know what would taste even better? An endorsement for a Slovakian yogurt. Could Vanessa Gecko get you that?
+
+SARA LYNN: Vanessa Gecko got Andrew The Social Network, and she has skybox seats at the Staples Center. What do you have?
+
+CAROLYN: Well, I've got a table at the Comedy Central roast of Gloria Stein--
+
+BOJACK: Hey, Sarah Lynn, what say we spend the day together, just you and me, away from all the haters?
+
+SARA LYNN: I want to say yes, but--
+
+BOJACK: Great, let's go.
+
+♪ It really seems like Some things are forever ♪
+♪ in this world ♪
+♪ Don't you know I'm feeling fine ♪
+♪ Together with my girl ♪
+♪ Daddy's girl She's daddy's girl ♪
+
+BOJACK: You know, Sarah Lynn, I got a feeling everything's gonna be okay.
+
+SARA LYNN: Uh-huh. Hey, did you hear Kazaz got cancer?
+
+BOJACK: What? Herb Kazaz has cancer?
+
+SARA LYNN: Yeah, in the butt. He's got, like, six months I think.
+
+BOJACK: Well, that's horrible. Why would you tell me that now?
+
+SARA LYNN: I don't know. The sun setting over those two hills made me think of a big ass, and that made me think of ass cancer, and that made me think of Herb Kazaz's ass cancer. You really didn't know?
+
+BOJACK: No, Herb and I aren't on the best-- Look, I'm trying to have a moment here. I can't-- Hey, I want to give you something.
+
+SARA LYNN: Is this your TV Guide award?
+
+BOJACK: It's the most prestigious award I ever won. I always thought if I ever had kids of my own, I'd give it to them one day. I want you to have it.
+
+SARA LYNN: Oh, wow. BoJack, thanks. You're sweet.
+
+BOJACK: [sighs]
+♪ Na-na-na-na La-la-la-la ♪
+♪ Na-na-na-na   La-la-la-la ♪
+
+SARA LYNN: What are you doing?
+
+BOJACK: Shh. Just let the credits roll, let the credits roll.
+♪ Sha-na-na-na-na-na Special moment ♪
+♪ Exec Producer Garry Marshall ♪
+♪ Na-na-na Such a happy day ♪
+"Sit, Ubu, sit." "Good dog." "Arf."
+
+SARA LYNN: Can we go home now?
+
+BOJACK: Yeah, okay, we're done.
+
+♪ Hey now, boy, come and try My clitoris is ginormous ♪
+
+[phone buzzing]
+
+BOJACK: Hello?
+
+MR. PEANUTBUTTER: BoJack Horseman. Did you get rid of your old TV Guide award? This pawnshop on La Cienega was selling one with your name on it.
+
+BOJACK: What? Wait, why were you at a pawnshop?
+
+MR. PEANUTBUTTER: Oh, I just have a guy there who calls me whenever TV awards come in so I can buy 'em. I put my name on, it's like I won it myself! I have two Golden Globes and a People's Choice for Temple Grandin.
+
+BOJACK: Sarah Lynn!
+
+MR. PEANUTBUTTER: Hello? You still there?
+
+♪ My clitoris is ginor-- ♪
+
+[record scratch]
+
+BOJACK: Okay, party's over. Everybody out.
+
+[all] Aw!
+
+BOJACK: Not you. You are in big trouble, young lady.
+
+BOJACK: I can't believe you pawned my award.
+
+SARA LYNN: It wasn't personal. I just thought your award was stupid, and I already have a billion other awards, and I wanted to get money for drugs.
+
+BOJACK: Look, things have been tough for you, and I understand that. I know what you're going through right now.
+
+SARA LYNN: [chuckling] Oh, you know what I'm going through? Why? Because you were on some dumb kids show a million years ago?
+
+BOJACK: Hey, now.
+
+SARA LYNN: I had my own fashion line when I was ten. By 20, I was packing stadiums. I get letters every day from boys telling me that I was the first girl they masturbated to. Literally, someone tells me that every day.
+
+BOJACK: That is gross.
+
+SARA LYNN: Oh-ho, I know! You sit up here in your little house and feel sorry for yourself? Oh, guess what, Bo-j, in order to be a has-been, you have to have actually, you know, been.
+
+BOJACK: You are way out of line!
+
+SARA LYNN: You're not my dad. You're just a rugged, older man who provided me with a strong, masculine presence during my formative years.
+
+BOJACK: I'm not your dad, and you're not my child. We're just a man and a lady living in a house together, and we're both adults, and we're both a little drunk.
+
+[both groaning]
+
+BOJACK: Who-o-o lit my ottoman on fire?
+
+TODD: Seriously, you seriously don't know?
+
+SARA LYNN: I'm a bad "widdle" girl.
+
+BOJACK: Yeah, you are bad, very bad!
+
+SARA LYNN: You want me to put it out with my boob?
+
+TODD: Uh, what?
+
+BOJACK: Your boob is a very impractical way to put out a fire.
+
+TODD: What is happening?
+
+BOJACK: I think you have a serious drug problem.
+
+SARA LYNN: The only drug I need is horse.
+
+TODD: Guys, guys, what are you doing? Please don't do this.
+
+[both moaning]
+
+TODD: No, no. Why are you--
+
+[both moaning]
+
+[whinnies]
+
+TODD: This is a very bad idea.
+
+[both moaning]
+
+TODD: Can I at least get my blanket-- Let me get my blanket out from under-- Oh G-- Oh, my God, my arm. You got my arm.
+
+SARA LYNN: [laughs] Ow! Ow!
+
+TODD: I'm in it now. Oh, God, no! I'm a part of it.
+
+[both moaning]
+
+TODD: I still haven't regained the feeling in my fingers. That was the longest two minutes of my life.
+
+BOJACK: Um, I think it was a little longer than two minutes. It was longer than two minutes.
+
+TODD: How do you not get that this is terrible?
+
+BOJACK: Oh, you mean from a P.R. standpoint? Yeah, 'cause if this got out, oh, I would get flayed!
+
+TODD: Oh, I'm done being the voice of reason. It's exhausting. I got to take an angry nap. Ugh. Ugh. Ugh.
+
+BOJACK: I know. I know. She's taking advantage of me.
+
+DIANE: Actually, it kind of feels like you're the one taking advantage of her. She's the one with substance abuse problems and daddy issues.
+
+BOJACK: Hey, we both have substance abuse problems and daddy issues.
+
+DIANE: Yeah, but she came to you for help.
+
+BOJACK: [sighs]
+
+CAROLYN: Hey, notice how I've been ignoring you, playing hard to get? Only makes you want me more.
+
+SARA LYNN: Ugh. Go stand on the other side of the room.
+
+CAROLYN: Okay.
+
+BOJACK: Sarah Lynn, get your coat. I'm taking you to rehab.
+
+SARA LYNN: Nah, I was gonna keep hanging out here if that's all right.
+
+BOJACK: No, it's not all right.
+
+SARA LYNN: What?
+
+BOJACK: This place isn't good for you. You need to go where you can get help, real help.
+
+SARA LYNN: But I thought you were always gonna be there for me like you said.
+
+BOJACK: I will always be there for you.
+
+DIRECTOR: Cut, let's take ten.
+That's ten, everyone. Let's make it a tight ten.
+
+BOJACK: These pages are shit.
+
+SARA LYNN: [coughs]
+
+BOJACK: You understand? Shit. I wouldn't wipe my ass with these pages. It would defeat the whole purpose of wiping my ass.
+
+LOBSTER: Phone for you.
+
+BOJACK: Uh-huh. You get me points on the back end?
+
+SARA LYNN: [coughs]
+
+BOJACK: Well, I told you I'm not gonna do it unless I get points. Oh, they can't find any? Well, maybe they could suck some out of my dick!
+
+SARA LYNN: [coughs]
+
+BOJACK: I'm on the phone. You're being very rude.
+
+SARA LYNN: [laughs]
+
+SARA LYNN: You promised me you would always be there.
+
+BOJACK: Sarah Lynn, this is for your own good. You can't stay here anymore.
+
+SARA LYNN: Okie-doke. I guess I'll just move out and find one of the billion people who will let me party at their house.
+
+BOJACK: Uh, well, you should not do that.
+
+SARA LYNN: Oh, I know. I know, but I can, so I will. I'm at a place right now where I never need to grow as a person or rise to an occasion because I can constantly just surround myself with sycophants and enablers until I die tragically young.
+
+BOJACK: Wh-What?
+
+SARA LYNN: Yeah, it's pretty much too late for me. Well, them's the breaks. Take it sleazy, everybody. Oh, by the way, I called Vanessa Gecko, and I'm meeting with her tomorrow. Thanks for the suggestion.
+
+CAROLYN: No! No, no, no, no, no!
+
+SARA LYNN: Hey, you guys want to hear my new catchphrase? Suck a dick, dumb shits! [blows raspberry]
+
+CAROLYN: [grunting] Laura, the dummy took the bait. Now for phase two.
+
+TODD: Is she gone? Is it safe to come out?
+
+CAROLYN: Leak to the trades that Andrew Garfield's agent is taking meetings with his ex, get it all over town, wait an hour, then get me lunch with Andrew on the books for this weekend, someplace Italian.
+
+BOJACK: I really blew it, didn't I?
+
+DIANE: I mean, maybe you could have been a better role model when she was young, but also, she never really had a chance. This is what our celebrity culture does to people.
+
+BOJACK: So what you're saying is, Everything is society's fault, and we as individuals never need to take responsibility for anything?
+
+DIANE: Uh, no. Not exactly. I was just saying that--
+
+BOJACK: Yeah. I like that. I didn't do anything wrong because I can't do anything wrong because we're all just products of our environment, bouncing around like marbles in the game of Hungry Hungry Hippos that is our random and cruel universe.
+
+DIANE: Wait, no, that's not even what I'm saying--
+
+BOJACK: Yeah, It's not my fault. It's society. Everything is because of society!
+
+DIANE: BoJack, that--
+
+TODD: Dude, just let him have this.
+
+BOJACK: Hooray! Everything is meaningless! Nothing I do has consequence!
+
+BIRD 2: So what'd you get, anything good?
+
+BIRD 1: Oh, I got everything.
+
+[both laugh]
+
+[both chuckle]
+
+♪ Back in the '90s ♪
+♪ I was in a very famous TV show ♪
+♪ ♪
+♪ I'm BoJack the horse ♪
+♪ BoJack ♪
+♪ BoJack the horse ♪
+♪ Don't act like you don't know ♪
+♪ ♪
+♪ And I'm trying to hold on to my past ♪
+♪ It's been so long ♪
+♪ I don't think I'm gonna last ♪
+♪ I guess I'll just try ♪
+♪ And make you understand ♪
+♪ That I'm more horse than a man ♪
+♪ Or I'm more man than a horse ♪
+♪ BoJack ♪
+Boxer versus raptor.
+♪ Na na na na na na na na ♪
