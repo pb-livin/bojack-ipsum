@@ -12,6 +12,9 @@
     // <p[^<>]*>
   // only </p>:
     // </p[^<>]*>
+  // only <p>, but leaving timestamp intact:
+    // (<p begin=)
+    // ( end=[^<>]+>)
   // all opening and closing <span> tags:
     // </?span[^<>]*>
   // all <br> tags:
@@ -20,10 +23,14 @@
 // To get rid of all xml tags in Netflix subtitles:
   // 1. Replace all breaks with 1 space
   // 2. Delete all spans
-  // 3. Delete all opening p tags
+  // 3. Delete all opening p tags (if leaving in timestamps, replace second half of opening tag with newline)
   // 4. Replace all closing p tags with newlines
   // 5. Delete all tags followed by newlines
   
+// const newTime = '3766347743t';
+// const captionTime = new Date(null);
+// captionTime.setMilliseconds(parseInt(newTime)/10000);
+// console.log(captionTime.toISOString().substr(14,5));
 
 function randomQuote(array) {
   return array[Math.floor(Math.random() * array.length)];
