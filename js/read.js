@@ -17,7 +17,6 @@ function makeTranscript() {
         .replace(/<\/p[^<>]*>/g, '\n')
         .replace(/<[^<>]+>\n/g, '')
         .replace(/\d+t/g, (match) => {
-          // const newTime = '3766347743t';
           const captionTime = new Date(null);
           captionTime.setMilliseconds(parseInt(match)/10000);
           return `[${captionTime.toISOString().substr(14,5)}]`;
@@ -30,7 +29,7 @@ function makeTranscript() {
     });
     parsedFiles.push(textFile);
   });
-  console.log(`Successfully parsed:\n\n    ${parsedFiles.join('\n    ')}\n\nto ${__dirname}\n`);
+  console.log(`\nSuccessfully parsed:\n\n    ${parsedFiles.join('\n    ')}\n\nto ${process.cwd()}\n`);
 }
 
 makeTranscript();
