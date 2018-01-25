@@ -19,6 +19,7 @@
     // </?span[^<>]*>
   // all <br> tags:
     // <br/?>
+  // (&[^&;]+;\s*) --> only needed for Portlandia so far ($gt;), and would remove other needed characters i.e. accented letters
 
 // To get rid of all xml tags in Netflix subtitles:
   // 1. Replace all breaks with 1 space
