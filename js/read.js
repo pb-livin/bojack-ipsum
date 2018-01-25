@@ -1,6 +1,8 @@
 function makeTranscript() {
   const fs = require('fs');
   const filepath = process.argv.slice(2);
+  const parsedFiles = [];
+  let parsedString = '';
   filepath.forEach((file) => {
     const textFile = file
                      .replace('xml', 'txt')
@@ -24,10 +26,11 @@ function makeTranscript() {
         if (err) {
           throw err;
         }
-        console.log(`parsed ${textFile} from ${file}`);
       });
     });
+    parsedFiles.push(textFile);
   });
+  console.log(`Successfully parsed:\n\n    ${parsedFiles.join('\n    ')}\n\nto ${__dirname}\n`);
 }
 
 makeTranscript();
