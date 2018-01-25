@@ -18,7 +18,7 @@ function makeTranscript() {
           // const newTime = '3766347743t';
           const captionTime = new Date(null);
           captionTime.setMilliseconds(parseInt(match)/10000);
-          return captionTime.toISOString().substr(14,5);
+          return `[${captionTime.toISOString().substr(14,5)}]`;
         });
       fs.writeFile(textFile, data, (err) => {
         if (err) {
