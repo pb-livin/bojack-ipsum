@@ -1,4 +1,4 @@
-function makeTranscript() {
+(function() {
   const fs = require('fs');
   const filepath = process.argv.slice(2);
   const parsedFiles = [];
@@ -30,6 +30,4 @@ function makeTranscript() {
     parsedFiles.push(textFile);
   });
   console.log(`\nSuccessfully parsed:\n\n    ${parsedFiles.join('\n    ')}\n\nto ${process.cwd()}\n`);
-}
-
-makeTranscript();
+})();
