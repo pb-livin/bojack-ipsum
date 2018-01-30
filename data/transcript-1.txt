@@ -992,7 +992,7 @@ GIRL: Good morning!
 
 BOJACK: Ahh! Why are you here?
 
-GIRL: I Slept here.
+GIRL: I slept here.
 
 BOJACK: Yeah, but why are you still here?
 
