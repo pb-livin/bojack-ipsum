@@ -29,5 +29,5 @@
     });
     parsedFiles.push(textFile);
   });
-  console.log(`\nSuccessfully parsed:\n\n    ${parsedFiles.join('\n    ')}\n\nto ${process.cwd()}\n`);
+  console.log(`Successfully parsed:\n    ${parsedFiles.join('\n    ')}\nto ${process.cwd()}`);
 })();
